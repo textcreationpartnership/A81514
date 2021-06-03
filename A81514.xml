@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse discovering some mysteries of our new state, and remembring some fatall daies on both parties, the loyall and the rebell: betwixt a Protestand, a Puritan, and a Papist: shewing the rise and progresse of Englands unhappinesse, ab anno illo infortunato, 1641.</title>
+         </titleStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81514</idno><idno type="EEBO-CITATION">99861098</idno>
+  <idno type="VID">113226</idno>
+  <idno type="EEBO-PROQUEST">2248542301</idno>
+  
+            <idno type="STC">Wing D1592</idno>
+            <idno type="STC">Thomason E303_9</idno>
+            <idno type="STC">ESTC R200292</idno>
+            <idno type="PROQUEST">99861098</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861098e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113226)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse discovering some mysteries of our new state, and remembring some fatall daies on both parties, the loyall and the rebell: betwixt a Protestand, a Puritan, and a Papist: shewing the rise and progresse of Englands unhappinesse, ab anno illo infortunato, 1641.</title>
+               </titleStmt>
+               <extent>[2], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "tber 26" [i.e. September 26].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:113226:1"/>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Come Sir; I pray be not so hot; I onely spake so much as I did, to let you know, that howsoever we differ in opinion, yet we may joyne in Affection; and if you will moderately and patiently discourse, I make no question, but before we part, we shall find where to lay the blame of our sufferings, and not be altogether free our selves.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>You are two to one; For you have a Pope in your Belly, and He on his Back.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Pray, judge not so rashly; I protest unto you, I am as farre from being a Papist as you are, and from being a Puri<g ref="char:EOLhyphen"/>tane, as He is; and though I agree with neither of you in opi<g ref="char:EOLhyphen"/>nion, yet you are both entirely in my Affection; and if you can arme your selfe with Patience, you will find your selfe more Popish, then I, in all things, and in some things, abso<g ref="char:EOLhyphen"/>lutely a Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>How? I a Papist? I defie the Pope and all his works.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I make no question but you doe; yet be patient a while, and I will make it evident unto you, that you have been chea<g ref="char:EOLhyphen"/>ted into that which you so much defie; And though you look awry upon each other, yet it is but as <hi>Sampsons</hi> Foxes; For there is nothing betwixt your Tayles but a Fire-brand, by which you both intend to burne up that Corne-field, which Christ hath growing in his Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu. Pa.</speaker>
+               <p>What? doe you compare us to <hi>Sampsons</hi> Foxes? what, pray, became of <hi>Sampsons</hi> Foxes?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Gentlemen, be not offended; I make that Compari<g ref="char:EOLhyphen"/>son to wooe you, or to fright you from your present Conditi<g ref="char:EOLhyphen"/>ons and Opinions, that you seeing how like you are to them in your present Practices, you may give the World a better account of your future being, then I can give you of those Foxes: For when they had done <hi>Sampsons</hi> Errand, they were never heard of afterwards; And if you goe on, it may be your great Masters will secretly dispose of you, when you have dis<g ref="char:EOLhyphen"/>patched a holy man will be sory to think.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>For my part, I am content to heare you, and if you cleare things as you goe along, I shall be one of yours; But if
+<pb n="3" facs="tcp:113226:1"/>not, assure your selfe, all good men will think hardly of you to Eternity.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I will give you the hearing too; But if you falter, I shall wound you with your owne weapon: And before you begin to resolve us in particulars, make good your former Com<g ref="char:EOLhyphen"/>parison; How are we like <hi>Sampsons</hi> Foxes?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Your will shall be a Law, Sir. And that I may not tyre your Eares, or mine owne Tongue with multiplicities, I will name onely one Position, apt to our present purpose; which, when you have heard, I make no question, but you will con<g ref="char:EOLhyphen"/>fesse the Comparison so just, that though you are discrepant in other things, and have been at deadly feud, yet herein, as <hi>He<g ref="char:EOLhyphen"/>rod</hi> and <hi>Pilate,</hi> you shake hands to crucifie Christ: The Position is this: You both allow it lawfull for Subjects to beare Armes against their King, to raise Warre against Him, to wage Warre with Him, to depose Him, to kill Him.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Where, and how doth the Church of <hi>Rome,</hi> allow this: It is a dangerous Doctrine, I confesse; and I assure you, I have been taught otherwise: and sure I am our present practice, now fighting for the King, saies otherwise; If you make it good, you teach me more then ever I yet knew.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Well Sir, I am glad to heare you say so; by it I perceive you are not Jesuited: Howsoever I shall tell you, what that learned man, <hi>Cardinall Bellarmine</hi> hath determined; whose writings both sorts of Papists, as well the non-Iesuited, as the Iesuited, have taken for Oracles: and if it once comes to this, <hi>Bellarmini est,</hi> so saies <hi>Bellarmine,</hi> it admits no farther dispute, but challenges Credit; And saies he, <hi>In terminis;</hi>
+                  <note place="margin">Tom. <hi>1.</hi> Contr. <hi>3.</hi> l. <hi>5.</hi> c. <hi>1.</hi> de R. P. C. <hi>6.</hi> &amp; <hi>8.</hi>
+                  </note>
+                  <hi>Potestas temporalis Spirituali, us Marito, subjicitur;</hi> A King is subject to the Pope, as a Wife is to her Husband. And upon this Foun<g ref="char:EOLhyphen"/>dation thus he builds; <hi>Papa Romanus potest jure leges conde<g ref="char:EOLhyphen"/>ra, Reges ac Principes arbitratu suo constituere, aut dejicere: Regna{que} bujus mundi transferre, prout Ecclesiae expedire puta<g ref="char:EOLhyphen"/>verit;</hi> The Pope may make Lawes, make and unmake, set up, and pull down Kings, as he pleases, and transferre their King<g ref="char:EOLhyphen"/>domes, as he thinkes meet, for the Churches profit.</p>
+               <pb n="4" facs="tcp:113226:2"/>
+               <p> Read him, read <hi>Eudemon,</hi> read <hi>Mariana,</hi> read many more, and you will find foure Causes by them assigned, for which, or either of which, a King may be Excommunicated, Fought against, Deposed, and Killed; These are the foure,</p>
+               <p>For
+<list>
+                     <item>1. Dulnesse of understanding.</item>
+                     <item>2. Infringing the Churches Priviledges.</item>
+                     <item>3. Heresie.</item>
+                     <item>4. Tyrannie.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>And I pray, where doe they that are called, or by which of them whom you call Puritans, is this Doctrine of King-killing avouched?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Sir, were there no more but the present practice of these unhappy daies, which hath rendred our Countrie scan<g ref="char:EOLhyphen"/>dalous to all the World, and will for many Ages leave that <hi>Odium</hi> upon our innocent Posteritie, it were too much; For you cannot denie it, and the World will hit us in the teeth with it, That in the yeares 1642, 1643, 1644, and 1645. which were hatched in that yeare 1641. <hi>The English men went a King-catching.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I! a King-catching; what is that to King-killing? By King-catching is meant, we went to rescue our seduced King from Evill Councellors, without any harme at all inten<g ref="char:EOLhyphen"/>ded to the King himselfe; yea, to doe him all the Right and Honour that could be imagined for Subjects to doe their King.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Were it no more then what you say; yet you can ne<g ref="char:EOLhyphen"/>ver shew me, where, and whence you had any Authentick Commission to be King-Fishers: <note place="margin">Mat. 4.19.</note> S<seg rend="sup">t</seg>
+                  <hi>Peter,</hi> I confesse, had a warrantable Commission to be a Fisher of men; But where M<seg rend="sup">r</seg>
+                  <hi>Peters</hi> had a Commission to be a King-catcher, or a Fisher of Kings, I must and doe confesse my ignorance.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Yes truly, I though what a learned man you were; I pray you look into the <hi>Proverbs,</hi>
+                  <note place="margin">Prov. 25.5.</note> and there it is said, <hi>Take away the wicked from before the King, and his Throne shall be established in righteousnesse.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes truly, and I think you as learned a man, and fit to be an undoer of Scripture, as <hi>Nicodemus</hi> was to be a Gover<g ref="char:EOLhyphen"/>nour of the <hi>Jewish Synagogue,</hi> or a <hi>Rabbi;</hi> when he understood
+<pb n="5" facs="tcp:113226:2"/>not the first principle and foundation of Religion, concer<g ref="char:EOLhyphen"/>ning Regeneration.</p>
+               <p>Who, I pray, are to remove those Evill Councellors? The King, or discontented Subjects? Read all Expositors; if you will not by them be convinced; Then how shall Subjects re<g ref="char:EOLhyphen"/>move those Evill Councellors? <hi>Verbis,</hi> or <hi>Verberibus? Ore Gladij,</hi> or <hi>Gladio oris?</hi> by Words, or Swords?</p>
+               <p>But if you beleeve what you have said, <hi>viz.</hi> That your onely aime was to remove the Evill Councellors; I pray un<g ref="char:EOLhyphen"/>deceive your selfe from that mysterie of Iniquity, when you have onely asked this question, why the <hi>Earle of Essex, and Sir William Waller left Oxford,</hi> and followed the King, when the King left it, and all his Councellors (I dare not say, Evill, being men of as much Integritie and Wisedome, as ever this Kingdome had) behind Him? Certainly, the answer will be this; Their Commission was not then to remove Evill Coun<g ref="char:EOLhyphen"/>cellors, but to Catch the King; King-catching, was the new Trade, to which the Common Souldiers were bound Appren<g ref="char:EOLhyphen"/>tises, and in which the Commanders were Iourney-men; The great Maisters of this Craft sate at rest upon the shore, while the Ship-Royall was tossed upon the Sea, by that lapland wind, which they had purchased with their plundered mony, and thought it safer for themselves to sleep in a whole skin, while their Emissaries were bleeding to death.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Well Sir; this was yet but King-catching, what is that to King-killing? and how then holds your Comparison.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Soft and faire, good Sir, I only followed you in your own Deviations: know you therefore, that shuting at the King to kill him, was not to catch him, unlesse it were alive or dead; and for evidence of this, let <hi>Edge-hill, Newbury,</hi> and other places speake: when you had him on the edge of that hill, you thought to tumble him downe and break his neck, as the <hi>Iewet</hi> intended to serve Christ, when they had him upon <hi>Edge-hill,</hi> or as the Translation is, upon the brow of the hill. <note place="margin">Luk. 4.29.</note> Nor indeed do I wonder at it, since it is but to approve your selves edified men in the doctrine of your new teachers.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, let not your tongue outrunne your lips; neither
+<pb n="6" facs="tcp:113226:3"/>new, nor Teachers; this is a lie of your owne forge, what Di<g ref="char:EOLhyphen"/>vines of ours have ever broached such Papisticall Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Take not so much pepper in your nose for feare you sneese too much; I do not say, your new Teachers broached it, but I say, they brewed it, and you are their Ale-drapers, and Tapsters, you broach it, and tappe it, and drinke it, and sell it.</p>
+               <p>Your Teachers, I say, have done it, and they are but New Teachers by the deed; <hi>Gregory</hi> the seventh was the first that brewed it amongst the Papists, and untill M. <hi>Iohn Calvins</hi> time, the Puritans never bought and of the Malt. And now if you please but to put on your spectacles, you will quickly see, the <hi>Kit</hi> is like the <hi>Cat,</hi> the <hi>Whelp</hi> like the <hi>Damme,</hi> the <hi>Colt</hi> like the <hi>Syre,</hi> and <hi>Puritans</hi> and <hi>Papists</hi> agree like Bells. For.</p>
+               <p n="1">1. A Papall Doctrine it is, that the <hi>Pope</hi> may change King<g ref="char:EOLhyphen"/>domes, <note place="margin">Bel. l. <hi>5</hi> c. <hi>6.</hi> de Rom. Pont.</note> and take them from one, and bestow them upon ano<g ref="char:EOLhyphen"/>ther, as the chiefe spirituall Prince, if it be needfull for soules health. (And if it were so, I wonder what King so just, but this great Phisitian would finde some distemper to let out the Bloud-Royall!)</p>
+               <p>And a Puritanicall Doctrine it is, <note place="margin">Vindic. cont. Tyr.</note> That Kings are of God by Institution only, of the people by Constitution, of God by Guifture, of the people by Seisure: (you know what followes.)</p>
+               <p n="2">2. A Papall Doctrine it is, <note place="margin">Barcl. de po<g ref="char:EOLhyphen"/>test. Pap. Plat. in vitâ Greg. <hi>7.</hi>
+                  </note> That the <hi>Pope</hi> hath supreme au<g ref="char:EOLhyphen"/>thority, over all Kings and Princes of the whole earth, and, that he hath absolute power to take away and give away Em<g ref="char:EOLhyphen"/>pires, Kingdomes, Soveraignties, and whatsoever mortall man hath.</p>
+               <p>And a Puritanicall Doctrine it is, That the people are bet<g ref="char:EOLhyphen"/>ter then the King, and of greater authority: the Collective bo<g ref="char:EOLhyphen"/>dy hath the same power over the King, that the King hath over any one person, that they may arraigne the Prince, and their Ministers (for Presbyters were not yet out of the shell) may excomunicate him, <note place="margin">Buchan.</note> that the power of the people over the King, is the same of a Generall Councell over the Pope; And as a Generall Councell may displace the one, if he be an
+<pb n="7" facs="tcp:113226:3"/>Heretick; so may the People depose the other if he be a Ty<g ref="char:EOLhyphen"/>rant, and a Tyrant he is, if he hinder the bringing in of their Discipline.</p>
+               <p n="3">3. A Papall Doctrine it is, <note place="margin">Maria<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note>
+                  <hi>Regibus haec salutaris meditatio est, ut non solùm Jure, sed cum laude &amp; Gloriâ perimi possint.</hi> It is a wholsome Meditation for Kings to think upon, They live in such a Condition, that they may bekilled, not onely lawfully, but also to the Praise and Glory of the Regicide.</p>
+               <p>And a Puritanicall Doctrine it is, That not onely <hi>Cum Laude,</hi>
+                  <note place="margin">Buchan:</note> (for the Puritan will outstrip the Papist in all that bad is) but also <hi>Cum praemio;</hi> if I had power to make a Law, I would make one Law of Reward, and Recompence to him that should kill a Tyrant, as men are rewarded for killing Wolves and Bears. (And by your Doctrine, King <hi>Charles</hi> is a Tyrant for denying to set up, or bring in your Discipline.)</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I marrie, this was in time of yore, neare upon an hundred yeares since; But who I pray, in these daies teaches such Doctrine, or who followes such Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>For shame man, will you never cover your owne faults? Faults did I say? I should have said, iniquities, im<g ref="char:EOLhyphen"/>pieties; For it is the height of sinne, and untill you doe with the Gyants climbe up <hi>Pelion</hi> to depose <hi>Iupiter,</hi> you cannot ex<g ref="char:EOLhyphen"/>cuse your Deposing, or seeking to Depose King <hi>Charles,</hi> by your King-catching. But since you will have it, take it thus.</p>
+               <p n="1">1. By way of Prophecy; from that holy and judicious man, M<seg rend="sup">r</seg>
+                  <hi>Hooker,</hi> who saw as farre into the Puritanicall drift, as man could see; his words, these, <note place="margin">Eccl. Pol.</note>
+                  <hi>After the Puritans have first resolved, that Attempts for Discipline are lawfull, it will follow in the next place to be disputed, what may be attempted against Superiours, who will not have the Scepter of that Discipliue to rule over them.</hi>
+               </p>
+               <p n="2">2. By History; after this Monster was whelped (for it is part<g ref="char:EOLhyphen"/>ly a Dogge, partly a Beare, barking and biting at all those, who have not the marke of the Beast;) neare <hi>Banbury,</hi> and moulded in <hi>Holborne</hi> (for as yet it did not see the way into <hi>Scotland</hi>) by the <hi>Islanders</hi> of Providence, and put to Nurse in <hi>London,</hi> by that man-midwife, D<seg rend="sup">r</seg>
+                  <hi>Downing,</hi> who knew
+<pb n="8" facs="tcp:113226:4"/>well how to deliver his Maid at the same time, or a little after, when all sinnes were lawfull, in this Oracle to the Fraternitie of the <hi>Militia:</hi>
+               </p>
+               <p>That for Defence of Religion, and Reformation of the Church, it is lawfull to take up Armes against the King.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, take heed how you wrong an absent man, much more a dead man; and unlesse you are sure of what you say, Recant what you have said.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Sir, I thank you for your godly admonition, and re<g ref="char:EOLhyphen"/>turne you for answer, I will not for the world belye any man. For the truth of this particular, you may informe your selfe from M<seg rend="sup">r</seg>
+                  <hi>Marshall,</hi> who confessed to M<seg rend="sup">r</seg>
+                  <hi>Symonds,</hi> that he had altered his opinion, which was, That to take up Armes against the King is unlawfull, upon D<seg rend="sup">r</seg>
+                  <hi>Downings</hi> Sermon; and now he did verily beleeve the lawfulnesse of it: For besides D: <hi>Downings</hi> Sermon, it hath been examined and voted by a whole Table of Elders, That for the Cause of Religion, it was lawfull for the Subject to take up Armes against his lawfull Soveraigne.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>How came D<seg rend="sup">r</seg>
+                  <hi>Downing</hi> to escape imprisonment?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Oh Sir, he betook himselfe to the Puritans Sactuary in <hi>Essex.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Truly, you must excuse me, if I doe not yet beleive it, or you: For at this time D<seg rend="sup">r</seg>
+                  <hi>Laud</hi> was Arch-bishop of <hi>Canter<g ref="char:EOLhyphen"/>bury;</hi> and he had so much power, that no place could be a Sanctuary to such Doctrine-teachers.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Deceive not your selfe; For at this time was an Army of <hi>Scots</hi> in this Kingdome, and it was resolved by the then Commanding Partie there, and by a powerfull Partie here, That a Parliament should be called, and in that Parliament, Episcopacie should goe downe; All the Conformable Cler<g ref="char:EOLhyphen"/>gie should be questioned for revolting from the Protestant Religion, and the Arch-bishop of <hi>Canterbury</hi> himselfe, for in<g ref="char:EOLhyphen"/>tending to introduce Poperie; And if the King would not willingly yeeld to these, and other illegalities, he should be forced to it,</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:113226:4"/>
+               <speaker>Pu.</speaker>
+               <p>Doe you know all that you now say to be true?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I speake now upon knowledge, <hi>a posteriori;</hi> and so neare as a man may guesse, at the Foundation by the Build<g ref="char:EOLhyphen"/>ing, or as they say at <hi>Hercules,</hi> by his Foot, so doe I at their intentions by their Executions; And if they had not been re<g ref="char:EOLhyphen"/>solved upon the Question before hand, they would never have voted it thorough such a Sea of Bloud, to the undoing of the King, Themselves, and Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>You must pardon me still, I cannot yet beleeve you; For I know the Arch-bishop was not so tame and gentle, as to be scared with a Bug-beare, <hi>de futuro;</hi> For I my selfe heard him say, <hi>He feared not a Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>And when he said so, I heard him say withall, <hi>He honoured a Parliament:</hi> speake his words at full, and you can<g ref="char:EOLhyphen"/>not wrong him, speake what you can. But to doe that Man of Men right, He was not scared; onely he saw a poor Church, thorough the impetuous violence of a giddie Faction, falling, and himselfe, one of the main props, to be crusht with the fall, which no man could doe with more Courage, and Christian resolution, when his turne came: And where is the man that will follow him, <hi>Dic bone Damoetas, &amp; eris mihi magnus Apollo.</hi> But of that in his due place more; in the meane time, I tell you, Dr <hi>Downing</hi> was gone beyond <hi>Canterbury,</hi> though he was but yet in <hi>Essex.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I know you meane the Earle of <hi>Warwicks</hi> House; as though that had been strong enough to secure him from the Arch-Bishops talons, whose Doctrine was so fatall to his An<g ref="char:EOLhyphen"/>tichristian Hierarchie?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Good words Sir, remember your own caution; wrong not the dead: I assure you, were it not to avoyd Provocations, I would now answer you with the Oratour, <hi>si quam maledi<g ref="char:EOLhyphen"/>cendo voluptatem caeperis, eam malè audiendo amittes;</hi> and tell you plainly, you speak false English; which I wonder not at, since you seldome speak true Latine.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why pray Sir? who am I, that I cannot speake true Latine, you mistake your mark, I am not M<seg rend="sup">r</seg>
+                  <hi>Edwards.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>For all that though, you have lighted upon an unhap<g ref="char:EOLhyphen"/>pie
+<pb n="10" facs="tcp:113226:5"/>name; for that was the very man, who was the occasion of those words from the Arch Bishop, when he was but yet Bi<g ref="char:EOLhyphen"/>shop of <hi>London:</hi> That M<seg rend="sup">r</seg>
+                  <hi>Edwards</hi> was then Lecturer at <hi>Al<g ref="char:EOLhyphen"/>gate;</hi> who being complained of, for no few dangerous Do<g ref="char:EOLhyphen"/>ctrines, some of the Faction in that Parish countenanced him, when he was convented before his <hi>Diocesan;</hi> whose sentence upon M<seg rend="sup">r</seg>
+                  <hi>Edwards</hi> being delivered, one of the company, M<seg rend="sup">r</seg>
+                  <hi>R. B.</hi> since dead, said, <hi>We shall have a Parliament ere long;</hi> whereto the Bishop replied; <hi>I would have you know, I honour a Parliament, but I feare it not.</hi> And that you may know withall, what Latine M<seg rend="sup">r</seg>
+                  <hi>Edwards</hi> can speake, he being after<g ref="char:EOLhyphen"/>wards presented to a Benefice in <hi>Essex,</hi> and comming to the Bishop for his Institution, in his Examination he lighted upon this question, <hi>Quare baptizantur Infantes?</hi> His answer was, <hi>Quia ritum habent ad istum Sacramentum.</hi>
+               </p>
+               <p>And in truth, this made me take you for M<seg rend="sup">r</seg>
+                  <hi>Edwards;</hi> but upon second thoughts, and better inspection, I think you are D<seg rend="sup">r</seg>
+                  <hi>Burges;</hi> And if so you be, my former Reply was true e<g ref="char:EOLhyphen"/>nough; for setting aside, <hi>Quid tunc? &amp; Quid de hoc?</hi> I won<g ref="char:EOLhyphen"/>der what true Latine he spake when he proceeded <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>or? In what a miserable case had he been, if the then <hi>Re<gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>sor</hi> had not as mercifully, as merrily, took him <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s quaint commendation, <hi>Nos scimus te benè posse pr<gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>re, licèt non bene potes disputare.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>You overshurt your selfe still; for neither am I D<seg rend="sup">r</seg>
+                  <hi>Burges,</hi> yet the man I so much honour, that here I will an<g ref="char:EOLhyphen"/>swer thus much for him; <hi>Nos scimus te nec benè posse Praedica<g ref="char:EOLhyphen"/>re, nec Disputare;</hi> and so you have a <hi>Rowland</hi> for your <hi>Oliver.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Had you been the man I thought of, I should have had a <hi>Tacitus</hi> for my <hi>Cornelius:</hi> But whosoever you are, much to blame you are, and too saucie too, as to cast so foule and false an aspersion upon one so infinitely above you.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Cry you mercy, Sir, too saucie I think you said; why pray? Because he was a Bishop, an Arch-Bishop, and my selfe but a poor Presbyter? as though Presbyter and Bishop were not all one? But, I pray, what wa<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that foule and false asperti<g ref="char:EOLhyphen"/>on you say, I charged him with?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:113226:5"/>
+               <speaker>Pr.</speaker>
+               <p>I must and will follow you in your owne vagaries, that you may not leave any strawes for your seduced Proselites to stumble at: Before therefore I remember you of your foule and false aspersions; Tell me, if you can, where you learnt, that Bishop and Presbyter are all one? sure I am, not <hi>De medio montium,</hi> nor yet <hi>De Fonte:</hi> For in the Scripture, both Old and New Testament, They have distinct significations, at least of <hi>Order,</hi> if not of <hi>Function</hi> too: in the Old Testament, they went under the Names of <hi>High-Priests, Priests,</hi> and <hi>Levites;</hi> in the New, under the Names of <hi>Apostles, Disciples,</hi> and <hi>Dea<g ref="char:EOLhyphen"/>cons:</hi> and ever since in the Christian Church, under the names of <hi>Bishops, Presbyters,</hi> or <hi>Priests,</hi> and <hi>Deacons: Deacons</hi> sub<g ref="char:EOLhyphen"/>servient to the <hi>Priests</hi> or <hi>Presbyters, Presbyters</hi> subservient to the <hi>Bishops;</hi> both ordained by the <hi>Bishops,</hi> both ordered, go<g ref="char:EOLhyphen"/>verned, and disciplined by the <hi>Bishops:</hi> The <hi>Bishops</hi> by neither, nor by both; Nor is there at this day any truly Christian Apo<g ref="char:EOLhyphen"/>stolicall Church without <hi>Bishops.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>No, what say you to the <hi>Reformed Churches</hi> in <hi>France,</hi> and the <hi>Low Countries?</hi> Are they not true Churches? yet what <hi>Bishops</hi> have they?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I beleeve in some of these places they have a <hi>Taut<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mount; Superintendents</hi> they have, which is but an ill Latine word for a good Greek word, and all one in signification, or<g ref="char:EOLhyphen"/>der, and jurisdiction; M<seg rend="sup">r</seg>
+                  <hi>John Calvin</hi> himselfe was <hi>superin<g ref="char:EOLhyphen"/>tendent</hi> of the Church in <hi>Geneva:</hi> And by vertue thereof, he ordained <hi>Presbyters;</hi> where they have not, they must thanke Necessitie; else the whole Assemblie at <hi>Dort,</hi> would never so much have commended the English-Church Government, by Arch-bishops and Bishops; and so earnestly have desired the same amongst themselves: Bishop <hi>Carleton</hi> is my wit<g ref="char:EOLhyphen"/>nesse for this truth, so is D<seg rend="sup">r</seg>
+                  <hi>Feately,</hi> so is D<seg rend="sup">r</seg>
+                  <hi>Goad;</hi> Their wri<g ref="char:EOLhyphen"/>tings are extant, though their Persons are dead: <hi>Beza</hi> too ac<g ref="char:EOLhyphen"/>knowledges <hi>Bishops</hi> to be of Superiour Order and Jurisdiction to <hi>Presbyters;</hi> yes, and so does M<seg rend="sup">r</seg>
+                  <hi>John Calvin</hi> too: <note place="margin">
+                     <hi>Io</hi> 1. Cor. 4.9.</note> And at this day in the Protestant Churches of <hi>Denmarke,</hi> and <hi>Sweland,</hi> they have Bishops, where they have not, <hi>Necessitas non solvit Sabbatum;</hi> Their desire to have them supplies their want, and
+<pb n="12" facs="tcp:113226:6"/>by vertue of that desire, True Churches they are; For it holds as true here, as in Baptisme, <hi>Satis est habere mentaliter, ubi non potest haberi sacramentaliter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>But, what say you then to the Church of <hi>Scotland?</hi> They neither have Bishops, nor doe they desire Bishops: is that a true Church, I, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I shall answer this with a sigh, and alas: There are <hi>Scot's</hi> Bishops yet living, Men famous; There are some <hi>Scot's</hi> Nobilitie desire the Restitution of them: The rest love them so well, that they desire but their Lands; their Persons, their Functions, their Iuridictions they can well enough away with, only they are in love with their means: For these men, I say, God grant they be not shut out of the Church Trium<g ref="char:EOLhyphen"/>phant, for destroying, as much as in them lyes, that part of the Church. Militant; A Church it is, a true Church it is, by ver<g ref="char:EOLhyphen"/>tue of the Bishops being, and that part of the Religious Nobi<g ref="char:EOLhyphen"/>litie, who desire their returne; what it may be hereafter, I know not: sure I am those who have been ordained after the new way of M<seg rend="sup">r</seg>
+                  <hi>Henderson,</hi> are meere Intruders, and not law<g ref="char:EOLhyphen"/>full <hi>Presbyters,</hi> for want of the imposition of the <hi>Episcopali</hi> hands: if you desire to read more of this subject, and will yeeld to sense, reason, or argument, I referre you to those in<g ref="char:EOLhyphen"/>comparably written and learned Bookes, Confessions and Proofes of Protestant Divines, of Reformed Churches, That <hi>Episcopacy</hi> is in respect of the office, according to the word of God, and in respect of the use, the best: Observations upon the <hi>Ordinance,</hi> and many more; where the necessity and uti<g ref="char:EOLhyphen"/>lity of <hi>Episcopacy,</hi> and the inconsistencie of <hi>Presbytery</hi> in any well ordered Monarchy, are uncontrouleably asserted: if you will not goe so farre, or take so much paines, doe but then re<g ref="char:EOLhyphen"/>member, how miserably your Champions at <hi>Ʋxbridge</hi> im<g ref="char:EOLhyphen"/>pugned us, or defended themselves; if <hi>Cornelius</hi> himselfe had been there, he had been as <hi>Tacitus,</hi> and much silenced as those Mutes. And now Sir, for your foule and false aspersion upon that man of God; why did you charge him with Anti<g ref="char:EOLhyphen"/>christian Hierarchie?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why? why I pray, did not he labour with might and maine to bring in Popery?</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:113226:6"/>
+               <speaker>Pr.</speaker>
+               <p>Prethee bewray not so much ignorance; doe you mean that Poperie is Antichristian? If so, who doe you think is Antichrist? when you have resolved me this, I make no que<g ref="char:EOLhyphen"/>stion, but with a little recollection, I shall fairly quit that most reverend Arch-Bishop of this aspersion.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Yes, I think that Popery is Antichristian, and thence conclude that the Pope is Antichrist.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is the signification of <hi>Anti.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>It signifies <hi>Con:</hi> or against.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>So it signifies <hi>Pro,</hi> or for: but setting this aside, I will end it with a jest; if I were a Constable, and upon Hue and Crye to apprehend Antichrist, I protest, by way of suspition, I should lay hold upon the <hi>Pope,</hi> if he were in my way, before any man living. But —</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>How Sir, the <hi>Pope</hi> Antichrist? you speake you know not what.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Give me leave to speake, I was going on to say; but that I have heard of late, Antichrist hath removed his seat from S<seg rend="sup">t</seg>
+                  <hi>Peters</hi> in <hi>Rome,</hi> to S<seg rend="sup">t</seg>
+                  <hi>Peters</hi> in <hi>Westminster,</hi> or very neare it; And which of them shall be determined for Anti<g ref="char:EOLhyphen"/>christ, <hi>Sub judice lis est:</hi> They both exalting themselves a<g ref="char:EOLhyphen"/>bove all that is called God; if it come to a Vote, it is verily thought, it will be carried by five at least, That <hi>Papa est Anti<g ref="char:EOLhyphen"/>christus,</hi> else <hi>Populus,</hi> so loth I am to offend either of you.</p>
+               <p>But in earnest, Sir, why doe you charge our late Arch<g ref="char:EOLhyphen"/>bishop with Antichristianisme, or Poperie? Antichristian, he could not be by that Badge; For never was Subject more Loyall to his Soveraigne then himselfe, look else upon his Life and Death: And for Poperie, with my Soule, I beleeve, he was as free from it, as any man living; look else upon his Conference with <hi>Jesuit Fisher,</hi> a Book then which was never writ better upon those Subjects, and to which I suppose, we shall never have answer: look againe upon the actions of his Life, when he was President of S<seg rend="sup">t</seg>
+                  <hi>Johns</hi> in <hi>Oxford,</hi> to my knowledge, he sent three Images, and such as would have pleaded for more favour with any one addicted to Popery, as being the Images of <hi>Christ,</hi> the <hi>Virgin,</hi> and S<seg rend="sup">t</seg>
+                  <hi>John;</hi> which he
+<pb n="14" facs="tcp:113226:7"/>found in repairing one part of his Lodgings, and making a window, that he might look into the Chappell, and observe such as frequently resorted to Prayers, when sicknesse, or other necessities hindered himselfe, (else I do not remember he was ever absent) to the learned <hi>Vice-Chancellour</hi> then be<g ref="char:EOLhyphen"/>ing, D<seg rend="sup">r</seg>
+                  <hi>Peirce</hi> by name, with this message: Sir, you know what to doe with them; and accordingly, the <hi>Vice-Chancel<g ref="char:EOLhyphen"/>lour</hi> replied, yes I doe: and you shall see it before you goe; and by, and by, he caused them to be burnt. A good argument, to perswade any man to beleive, the Arch-bishop was not Popish: and when he was charged with this Crime, who were his Accusers, but two men that had lost their Eares, and one, that had been whipt at the Carts tale? They themselves are living, and know I speak truth: And from this Charge, he came so clearly off, that the Lord <hi>Say</hi> himselfe, was purposely absent upon the day of his Sentence, as if he would say, with his Predecessor <hi>Pilate,</hi> I wash my hands from the bloud of this just man.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>How now Sir, whether doth your zeale transport you? doe you compare the Arch-bishop with Christ?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>No, no Sir, no more then he compared himselfe with S<seg rend="sup">t</seg>
+                  <hi>Stephen,</hi> but as S<seg rend="sup">t</seg>
+                  <hi>Stephen</hi> was stoned, and the Arch-bishop murthered, both Martyred, <hi>Populo ut placerent;</hi> For what other fault were they guiltie of, but the Peoples disaffection? so the Arch-bishop died for Christ, for his Gospell, for his Church; his greatest sinne in the Peoples eyes, the zeale of Gods house eate him up: and as <hi>Pilate</hi> was loth to condemne Christ, because he was a just man, and had no fault in him; so was the Lord <hi>Say</hi> loth to have his hands in the Arch-bishops bloud, because he had so few faults in him, though it may be as glad as the other, when it was spilt; his life being a great hinderance to his Lordships perpetuall Dictatorship.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, your Evasions are not so smooth, but you may be questioned for this: did not the Parliament condemne him? and was not he then justly put to death? how then dare you cast an aspersion upon the Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I neither am, nor will be in your Nooze; For know
+<pb n="15" facs="tcp:113226:7"/>you Sir, no man living honours a Parliament more then my selfe, nor lesse fears a Domineering Faction: It was a Faction, not the Parliament, that first found him guilty, because they would, not because he was; and then condemned him, because they would, not because he was worthie; and last of all Mur<g ref="char:EOLhyphen"/>thered him, because they found no way so fit whereby to curb the Crowne, as by burying the Myter: And from that Faction, with the help of the City, have all our present and succeeding miseries had their Birth and Education, and in them too, I hope in God, ere long their end.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Truly, now you beginne to speak plaine and home, give me Demonstrations of what you last said, and I am not so wedded to my opinion, but you may weane me and winne me.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>And so me too.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I shall then think my time well spent: Propose you, or you then what you thinke fit, and as Lam able, I shall give you satisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>First then, I pray tell me, if the Papists in <hi>Ireland</hi> were not the wombe of our miseries, and are not still the only Re<g ref="char:EOLhyphen"/>bells?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I neither dare, nor can excuse the Rebells of <hi>Ireland,</hi> for what they have done; They have been to blame, very much to blame; yet what they did, they did partly by example, part<g ref="char:EOLhyphen"/>ly by necessity; they have administred Fewell enough, and too much to this Fire; but it was first kindled in <hi>Scotland;</hi> the <hi>Pu<g ref="char:EOLhyphen"/>ritans</hi> there were the Wombe of it; though I must tell you withall, the Loynes that begot this Centaure, were the <hi>Puri<g ref="char:EOLhyphen"/>tans</hi> here in <hi>England;</hi> If the flint and steele had not struck fire in <hi>England,</hi> the Tindar had never took Fire in <hi>Scotland;</hi> nor had the Flame ever gone over into <hi>Ireland</hi> to increase the Fire.</p>
+            </sp>
+            <sp>
+               <speaker>Pu. Pa.</speaker>
+               <p>Pray speak plaine, that we may know upon whom to lay the blame, and how much we must beare our selves.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Know ye then that diverse <hi>Scottish</hi> men (for many of them are singular good people, and as Loyall as the world af<g ref="char:EOLhyphen"/>fords) were fed high, by the unparallel'd Munificence of King
+<pb n="16" facs="tcp:113226:8"/>
+                  <hi>James</hi> of blessed Memory, and King <hi>Charles</hi> of blessed being: (and long I pray God may He be) From which when He withdrew His hand, looking with the provident eye of a Fa<g ref="char:EOLhyphen"/>ther upon his numerous Posterity; they grew sullen and dis<g ref="char:EOLhyphen"/>content, expecting this favour to be entail'd by way of Inhe<g ref="char:EOLhyphen"/>ritance: and therefore plotted to force that, which Favour would not continue: This was first-whispered privately at a Scottish Ordinary among themselves: Then it came to be spread in Ladies and Gentlewomens Chambers: I instance for one: I was accidentally the 8 of <hi>August</hi> 1639. at a Gentle<g ref="char:EOLhyphen"/>womans Lodgings in <hi>Sheer-lane,</hi> with a Doctor of Physick, by name <hi>Edward May,</hi> and into that Chamber came a Scottish Captaine, by name— <hi>Nuppiers</hi> Newes was demanded; He, the Captain replyed; <hi>Good newes, the time is now come, that England and Scotland shall be one Kirke, and you shall have no more Bishops then wee; let them look to their bookes, what should they doe with so mickle meanes? That which serves but</hi> 25 <hi>of them, will serve <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1000 <hi>younger Brethren; I am one, and God take me; I will fight lustily for it;</hi> and much more, and much worse to this purpose: One of the company wisht him to be silent, and told him, the King would never yeeld to it, as being against his Oath:</p>
+               <p>
+                  <hi>Pus<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>,</hi> replied the Captaine, <hi>you English are the veriest Fooles in the World, that Oath was but a me<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Complement;</hi> and this was carried so closely, that the King should neither help them nor himselfe.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why then it seems, the <hi>Scots</hi> were both the Wombe and Loynes of these miseries, let them beare the whole blame of it.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Not so, the Scots were yet too weake; They knew if the English did not both endite and assist, they must surcease; they lay hold therefore upon all occasions: The yeare before the Iudges had sentenced Ship-mony Lawfull; And the Com<g ref="char:EOLhyphen"/>mon-Prayer book was sent into <hi>Scotland;</hi> and <hi>Burton</hi> that Di<g ref="char:EOLhyphen"/>vine, <hi>Prinne</hi> that Lawyer, <hi>Bastick</hi> that Physician, were new<g ref="char:EOLhyphen"/>ly sentenced and punished by the Law of the Star-chamber.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I, I; that Ship-mony, that Common-prayer Book;
+<pb n="17" facs="tcp:113226:8"/>and those mens eares cryed for vengeance.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You are deceived —</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why, was not Ship-mony illegall, and a grievous bur<g ref="char:EOLhyphen"/>then upon the Subject?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>For the illegality of it, the Lawyers say, No. <hi>Et uni<g ref="char:EOLhyphen"/>cui{que} artifici in suâ arte credendum;</hi> And, as for being a grievous burthen, I believe we have since found a little Finger farre heavier; and this heavy burthen to our destruction, whereas that light one was for our security: For, believe me, I have heard some of the ablest, and best knowing Sea-men in <hi>England</hi> say, we had never so strong a Wall before; and had it gone on but one five years longer, we had been strong enough at Sea for all the World beside.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>But if it were not illegall, why did the King yeeld to have it removed?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>He sought thereby to take away all colour of com<g ref="char:EOLhyphen"/>plaint, which doubles our sinne, that He so good a King should have so badde Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>But what think you of the Common-prayer Booke? was not that Popish, and justly offensive?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Noe, no more then our Common-Prayer-Book, of which I believe you will give me occasion to speak anon.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>But what then think you, of the Punishment inflicted upon those three servants of the living God?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>They merited more then was inflicted; the Divine was turned a Melancholie Sir, and highly offended, because he had not that preferment he aspired; the poorest Deanrie in <hi>England</hi> had stopt his Mouth, and kept him as conformable, as when he waited in Prince <hi>Henries</hi> Chappell: The Lawyer turn'd a proud Pharisee; and because he had a good Memory, thought he had a good Iudgement too; which seldome meet in any man, and were at great distance in him, one drop of Court Holy water, had cured his phrensie, and kept him in as calme a temper, as when he was in <hi>Oriell</hi> Colledge; The Physician fell into a selfe-conceitednesse, and because he could not cut his cloath according to his mind, he ranne Byasse; some great Patient had kept him as quiet, as when he kept his Fathers
+<pb n="18" facs="tcp:113226:9"/>Tann-pits, or waited upon his Father in Lawes Hawkes. Thus missing their aymes, they flye in the face of Majestie and Hie<g ref="char:EOLhyphen"/>rarchie: They had great thoughts of heart, and thereby ad<g ref="char:EOLhyphen"/>ded much Tempest to our troubled Sea; for now the enraged people took those three for their <hi>Diana,</hi> and therefore wel<g ref="char:EOLhyphen"/>come them into <hi>London,</hi> when the times were ripe, with Rosemarie and Bayes, which would have made a pretty shew upon Calves-heads.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>If these were but made occasions, what were the true occasions of our miseries? and where may we justly lay the blame?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Why Sir, the maine that the <hi>Scots</hi> built their hopes upon, were those men that withstood Ship-mony, and were sued and cast: upon these they worke, and —</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Pray tell us who they were.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I am loth to answer you, but that you may know I am not Fictitious, and yet that I may not bring too many Fists about my Face, for feare of a bloudy Nose, or having my Teeth struck out for speaking Truth, I will name two, and but two, the Lord <hi>Say,</hi> and M<seg rend="sup">r</seg>
+                  <hi>Hambden:</hi> These two are told by the <hi>Scots,</hi> that if they will provide politiquely in <hi>England,</hi> them<g ref="char:EOLhyphen"/>selves will be ready in <hi>Scotland:</hi> many journies are made thi<g ref="char:EOLhyphen"/>ther by M<seg rend="sup">r</seg>
+                  <hi>Hambden,</hi> many Contrivances are laid in <hi>England;</hi> They enter into Association, the one for Revenge, the other for profit, both pleasing to Carnall minds: but the pretence is, To ease the groaning Subject of the intollerable burthen of Ship-mony, which was as welcome newes to the madnesse of the People, as <hi>Jeroboams</hi> promise, when he got the ten Tribes to Rebell against <hi>Rehoboam,</hi> their Liege Lord and King.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Rebellion? why, was that a Rebellion? I am sure the Text saies, <note place="margin">1. King. 12.</note> it was from the Lord: or is this Rebellion? sure I am, this was done by Act of Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>True, the Text does say so indeed, but all Expositors upon the Text doe say, it was only <hi>Permissivè,</hi> not <hi>Effectivè,</hi> by permission, not appointment: and good reason they had so to say; <note place="margin">1. Kin. 12.19</note> for God calls it Rebellion in two severall places, once in the present Historie, <note place="margin">2. Chron. 10.19.</note> and once in the future Records.</p>
+               <pb n="19" facs="tcp:113226:9"/>
+               <p> And this Rebellion, whether you meane the <hi>Scots</hi> first, or second Invasion, it skills not which, received not Countenance or Commission from an Act of Parliament: The first had an Act of Oblivion that way, the second not so much as from an Ordinance of Parliament, though it bears that face, but of a Faction in Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why say you so? is it not printed, <hi>An Ordinance by the Lords and Commons Assembled in Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes, it is so printed, and yet it is not so; for you must know, that by Lords and Commons Assembled in Parliament, are understood, the Lords Spirituall and Temporall, and the whole House of Commons, or the Major part: but that <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> had no Lords Spirituall, few Lords Temporall, and not halfe the Commons, and against halfe their wills too that were present. Besides, had it had the Concurrence of all, yet an <hi>Ordinance</hi> binds only themselves; an Act only can bind the Kingdome, and an Act of Parliament there cannot be without the King.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Bishops were outed by an Act, so their allowance was not necessarily required; the Lords and Commons that were absent, were wilfully absent, not necessarily: and the King hath willingly withdrawne himselfe from his Parlia<g ref="char:EOLhyphen"/>ment; so that for ought I can perceive, it is <hi>an Ordinance of Parliament,</hi> which upon these Considerations is Tantomount with an Act, and equally binds the Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>It is true, the Bishops were outed by an Act: but Acts of Parliament are not like the Lawes of the <hi>Medes</hi> and <hi>Persi<g ref="char:EOLhyphen"/>ans,</hi> and I make no question, but this Act may be altered, and my Lords the Bishops restored to their necessary Rights. For, unlesse the Bishops doe sit and vote there, that great body hath lost one Principall Member; unlesse they sit there in their pub<g ref="char:EOLhyphen"/>lique and naturall Capacity, the Church is like to suffer wrong: unlesse they sit there in their politique and particular Capacity, the King may suffer wrong.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>What wrong can the King suffer by their not being there?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>In good time you propose this question, for the Faction
+<pb n="20" facs="tcp:113226:10"/>very well knew, they could never bring about their Engines, so long as they were present; for it they gave way to wrong the King, they must wrong themselves much more: they fit<g ref="char:EOLhyphen"/>ting there in their politique Capacitie only by vertue of the Kings favour, which these <hi>New States-men</hi> seriously rumina<g ref="char:EOLhyphen"/>ting, first by Petition, and then other wise by suggestion, got the King to passe that Act, that so there might be no Myter to de<g ref="char:EOLhyphen"/>fend the Crowne: an this they learned from their Elder Brethren the Rebels in <hi>Germany,</hi> who in their fourth Petition desired no Tithes, and consequently no Bishops, and their fourth new Doctrine was, all men must be of equall Dignitie, and consequently no King.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Truly, if the Lords Temporall and Commons, had not since been wilfully absent, and the King willingly withdrawn himselfe, I might chance to stagger.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>And truly so you may; for first, that the Lords and Commons were wilfully absent, nothing lesse: for they were fearfully absent, they could not be there in safety; they were threatned, not only by their Fellow-Members, but also by the gay Citizens of <hi>London,</hi> from the Alderman to the Scavenger, and therefore they thought it more wisedome, to be safe with the Shrubs, then in danger with the Cedars.</p>
+               <p>And secondly, that the King did willingly withdraw him<g ref="char:EOLhyphen"/>selfe; no such matter neither. He was looked upon as an or<g ref="char:EOLhyphen"/>dinary man, so soon as ever that Act for the continuance of this Parliament was passed, threatned equally with the meanest Member, and by the meanest man.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Oh Sir, are you come thither? this will prove no Re<g ref="char:EOLhyphen"/>bellion by this very act: for hereby he put the Power out of his owne hands; felfe-harme, selfe-blame.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes Sir, I am come thither; and by coming so farre, must retort your owne stone, and tell you, that therefore the Rebellion is the greater: The greater the Trust that is reposed, the greater the knavery that betrayes that Trust; besides, the King did not divest himselfe, when He invested them: not himselfe of Power, when them with perpetuity. And this is so farre from making the Parliament above Him, which you
+<pb n="21" facs="tcp:113226:10"/>couched handsomely or scurvily, in those words, <hi>He put the Power out of his owne hands,</hi> that it is <hi>ipso facto,</hi> become no Parliament; whether you take the word Critically, or Logi<g ref="char:EOLhyphen"/>cally: for by their turning the perpetuity of sitting which the King invested them with, into an omnipotency of Voting, which they were never clothed with, they have denied all the Loyall Nobility and Gentry the freedom of Speech, which is the greatest Priviledge of Parliament Critically; and decli<g ref="char:EOLhyphen"/>ned the Power Regall, which is the greatest Honour of Parlia<g ref="char:EOLhyphen"/>ment Logically; because a Parliament they are by the Power and Favour of <hi>Charles</hi> being their King, and a Parliament they are not, by being their owne King, or the King of <hi>Charles.</hi>
+               </p>
+               <p>Besides, two great Lords of the Kingdome wrong this Act from the King, under the pretences of necessity to pay the Kindomes debts, <hi>i. e.</hi> such debts as they had contracted by bringing in the <hi>Scots,</hi> and of promise, that they would make a speedy end of that Act, and making Him a glorious King: all which Conditions being broken and unperformed, for which that Act was granted, the Act too in my poor understanding, is null of it selfe.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, these are but words, the Act is extant to justifie it selfe; the Promises by whom to be justified?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You may have them justified by Duke <hi>Hamilton,</hi> and the L. <hi>Say,</hi> if their memories at least will be true; They were employed by the two Houses to beseech this Act from the King, because without it they could not have credit for 600000 l to pay the <hi>Scots:</hi> and when they had it, they would not make use of it for above halfe the yeare, and would by way of gratitude for so unexampled a Trust increase His Ma<g ref="char:EOLhyphen"/>jesties Revenues and Honours.</p>
+               <p>In granting this Act, the King declared a world of Inte<g ref="char:EOLhyphen"/>grity, who would lay himselfe solely upon His People; the Faction in failing the promise shew a world of subtilty, and cry aloud, <hi>This Rebellion, is the Rebellion Paramount, nor was ever any like it:</hi> Indeed put all the Rebellions that ever were acted, and are recorded, together, and this infinitly outweighs them all, both in Divine and Humane History:
+<pb n="22" facs="tcp:113226:11"/>
+                  <hi>Moses's</hi> Kinsemen, <hi>Davids</hi> Sonne, <hi>Caesars</hi> Favourite, doe all vayle bonnet here; Here are men, with whom the King took sweet Councell, men who walked with Him into the house of God, men that did eat of his owne Bread, yes, and did weare his Cloths too, else they had gone naked.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why named you only M<seg rend="sup">r</seg>
+                  <hi>Hambden,</hi> and the Lord <hi>Say?</hi> was not M<seg rend="sup">r</seg>
+                  <hi>Pym</hi> in it? and were there not other Confede<g ref="char:EOLhyphen"/>rates besides?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes, there were Confederates enough, and more then a good many; but I told you before, I would not speak of too many; M<seg rend="sup">r</seg>
+                  <hi>Pym</hi> was in too, but he was kept close in the Stable, and fed high, that he might make no abortive leap, when his time came to appeare.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why spake you only of Duke <hi>Hamilton,</hi> and the Lord <hi>Say</hi> in the other employment? were there no other Solicitors?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>None that I have received intelligence of, nor was there need of more; for one had hope enough by vertue of ancient favour, and undiscovered deception; the other of a see<g ref="char:EOLhyphen"/>ming Saint, and new Reception.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Where now doe you lay the first ground of this Re<g ref="char:EOLhyphen"/>bellion, and our miseries?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Vpon the Lord <hi>Say,</hi> and M<seg rend="sup">r</seg>
+                  <hi>Hambden,</hi> with their Confederates.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why so?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Because upon their perswasions the <hi>Scots</hi> made their first Invasion.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>How know you that?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>The Lord <hi>Wilmot,</hi> who was their Prisoner at <hi>New<g ref="char:EOLhyphen"/>castle,</hi> and Sir — <hi>Barclay,</hi> who was sent by the King to redeeme him and others, can justifie it; for when they had asked the <hi>Scots,</hi> how they durst doe this against their Native King? They replied, <hi>If some of the English Nobility and Gen<g ref="char:EOLhyphen"/>try had not invited them, they had never invaded us,</hi>
+               </p>
+               <p>Here new you have the Rise of this Rebellion, and <hi>Eng<g ref="char:EOLhyphen"/>glish</hi> Faction preparing within, and a <hi>Scottish</hi> Faction inva<g ref="char:EOLhyphen"/>ding without; both convenanted to joyne, in case the King should be strong enough to oppose: <hi>England</hi> the loynes that
+<pb n="23" facs="tcp:113226:11"/>begot this Rebellion, <hi>Scotland</hi> the wombe that conceived it, Revenge here, and Gold there the expected Issue.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>What preparations I pray, were here? you have na<g ref="char:EOLhyphen"/>med but few men, and those not very considerable.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I confesse, I have named but few, but those few so considerable, <hi>Rebus sic stantibus,</hi> that they had soon infected the People by their subtle projects, and preparations; partly Clericall, partly Laicall, both mainly Civicall.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>What preparations Clericall? what Laicall? what Civicall?</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Thus, 1. Their new order of Cleriques, yeleped Lectu<g ref="char:EOLhyphen"/>rers, <hi>alias</hi> Trencher-Chaplaines, who depended meerly upon their charity, and so were soley at their Devotion, have their formes how to pray, &amp; their doctrines what to vent, which they durst not disobey, and form which they durst not vary, for feare of a <hi>Periclitatur portio nostra.</hi> Their prayers after this manner.</p>
+               <p>
+                  <hi>O God, deliver the Church from the dregges of Antichrist, the City from Masses, whither people run by hundreds and thou<g ref="char:EOLhyphen"/>sands, the Court from Popery, and the King from Idolatry.</hi>
+               </p>
+               <p>Their doctrines altogether inveighing against Tyranny, Pre<g ref="char:EOLhyphen"/>lacie, and a set form of prayer. And why thus, but to tell the people, that if it were not for them, and their society, all would out of hand come to naught; I appeale to your selfe, if you have not heard you Lectures use this very tone of pray<g ref="char:EOLhyphen"/>ing and preaching.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I confesse I have; nor can I see any fault therein; their prayers savour of the spirit, and their Doctrines of the Gospell. For why should they not pray for deliverance of the Church, the City, the Court, and the King from Poperie, and Idolatrie? why should they not preach against Tyrannie in Kings, pride in Prelates, and stinting of the Spirit by a set Forme of Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>True, if the Church, Citie, Court, or King, were ad<g ref="char:EOLhyphen"/>dicted to Idolatrie, or Poperie, if they King were a Tyrant, or the Prelates proud, or a set form of prayer stinted the spirit, but God be praised, <hi>Cujus contrarium verum est;</hi> wherefore their only ayme in this, was to alienate the hearts of the people from the Church, from the Loyall Citizens, from the Courts,
+<pb n="24" facs="tcp:113226:12"/>and from the King, thereby putting Swords into the Peoples hands, while themselves sounded the Trumpet of Sedition.</p>
+               <p n="2">2. Their new Lay-Fraternitie, are to hugge these setters forth of new Doctrine, make much of them, Feast them, Con<g ref="char:EOLhyphen"/>sen their Parsons of their Tithes, to fill their purses, that their new Gospell might be established, till the <hi>Millenarian</hi> yeare of sensuality approacheth, which is</p>
+               <p n="3">3. Endeavoured by both upon the discontented Aldermen, and breaking Citizens; that the one would provide for the Bench, and make that Right, and the other for the Common-Hall, and make that <hi>Round:</hi> Hereupon M<seg rend="sup">r</seg>
+                  <hi>Pennington,</hi> who had more Arrogance then Ignorance, yet enough of both, makes faults in those Loyall Aldermen, where he could find none: and for feare <hi>London</hi> should not afford him one after his owne heart, Alderman <hi>Atkins</hi> is sent for to <hi>Norwich,</hi> to doe service at <hi>London;</hi> because he had formerly been a Free-man of the Basket-makers is there; while in the meane time, M<seg rend="sup">r</seg>
+                  <hi>Ven</hi> M<seg rend="sup">r</seg>
+                  <hi>Manwaring,</hi> and M<seg rend="sup">r</seg>
+                  <hi>Basse, Cummultis allis,</hi> buzze it amongst the giddy people, that the old Sages of the Citie were all rot<g ref="char:EOLhyphen"/>ten at the heart; and it was now high time, and the time now fit, if they could make new Common Councell-men, the Game would be their owne. Hereupon they Shuffle, Cut, and Deale, you may be sure they had a good packe.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, you tell me a wonder, and my heart misgives me somewhat was hammering, which my dulnesse cannot appre<g ref="char:EOLhyphen"/>hend: pray goe on, untill you have fully enlightened me, say, what ayme had they herein?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Nothing, but only to secure the <hi>Militia</hi> and <hi>Artillery-yard</hi> of the Head-Citie, which was by this Atcheivement growne greater then the whole body of the Kingdome; That so they might awe the King, secure the five Members, Com<g ref="char:EOLhyphen"/>mand what mony they pleased, and vent this profitable Drug, Rebellion, at their pleasure, and upon their owne rates, into the Countrie, after they had nursed it daintily at the Mammes <hi>Papps</hi> in the Citie.</p>
+               <p>
+                  <hi>Pu</hi> How could the King be hereby awed? Had not he the Tower to secure himselfe, and command the Citie?</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:113226:12"/>
+               <speaker>Pr.</speaker>
+               <p>Oh Sir, these men plaid their Game as craftily, as they packd their Cards; they had got the Tower before hand, 1. By Complaints, 2. By Jealousies, 3. By Desires.</p>
+               <p n="1">1. By Complaint upon that gallant Man, then Esquire, since for his merits, Sir <hi>Thomas Lunsford,</hi> whom they knew had Abilitie enough to serve, and too much integritie to dis<g ref="char:EOLhyphen"/>serve the King his Master; Therefore their Jealousies and Feares pretend faults upon him, because they could not in deed or really charge him with any: when his life was scanned, and nothing worthy the name of suspition found in him, at last, they complaine, he was not a man in whom they could con<g ref="char:EOLhyphen"/>fide; and therefore, unlesse His Majesty would remove him, they must be in perpetualll feare. The King, though loth to part with so trusty a Servant, yet rather then the least jealousie should stare upon him, pleases them in this: and in Sir <hi>Thomas Lunsfords</hi> room, place a man, against whom neither jealousie, feare, nor malice, could, or durst object, Sir <hi>John Byron,</hi> since Lord <hi>Byron:</hi> And therefore.</p>
+               <p n="2">2. The Citizens Wives are set upon a new Pageant, They cannot sleep quietly in their beds, for feare of something, God knowes what; the Crickets in their Chimnies sing, and strange hideous Dreames they have, that Sir <hi>John Byron</hi> had planted all the Tower Ordnance against their houses.</p>
+               <p n="3">3. And thereupon Desires are now pretended for one Re<g ref="char:EOLhyphen"/>move more, and if Sir <hi>John Conyers</hi> might be there seated, they would rest assured of the King's good Grace and meaning to<g ref="char:EOLhyphen"/>wards them; <hi>Actum est,</hi> it is done, <hi>Et hinc illae lachrymae,</hi> we are undone, Sir <hi>John Conyers</hi> was so sure to them, that they are now Cock-sure of the Tower.</p>
+               <p>And so by Conjuction of <hi>Sol &amp; Aries,</hi> the Tower and the Citie strenth, the Royall and the Civicall Magazines, they at length appeare in their owne likenesse; and though for a while, <hi>pro formâ,</hi> they petition His Majesty, till he could grant no more. They first awe him by frequent Tumults, and fawcy menaces from Mechanicks of all sorts, even at the Court-gate; by which meanes the King, Queene, Prince, Duke, <note place="margin">
+                     <hi>Ian.</hi> 10.1641.</note> are forced from <hi>Whitehall,</hi> from <hi>Hampton Court,</hi> from <hi>Windsor;</hi> and a
+<pb n="26" facs="tcp:113226:13"/>while after scorn'd in a mock-play at <hi>Guild-hall London:</hi> what stuffe was in it, I had rather you should think, then I repeat; bad enough, you may be sure it was, for M<seg rend="sup">r</seg>
+                  <hi>Ven</hi> himselfe was the Dore-keeper: from whence as I take it, came that memo<g ref="char:EOLhyphen"/>rable Speech, <hi>Ven with his Mirmidons;</hi> It might have been, and I trust, will prove no other in the end, <hi>Ven with his Anticks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>What meant you by securing the <hi>five Members?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>If you know not that, you know nothing: a dangerous Conspiracie there was; <hi>Five</hi> were most Eminent in that Con<g ref="char:EOLhyphen"/>spiracie; These the King sends to have attached, which being denied, He goes in Person to see them apprehended, for no lesse a Fault then High Treason: This is Voted to be a breach of Priviledge; and indeed so it was in their owne Construction; for the King only was bound to keep the Lawes, Themselves only had priviledge to break the Lawes, and against their pri<g ref="char:EOLhyphen"/>viledge it was to be apprehended for breaking the Lawes: They therefore to amuse the people, take Sanctuarie in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for some few dayes, and then with Guard and Regard, are brought to their Seats in <hi>Westminster,</hi> by an Army of Citizens, and a Navy of Sea-men. And now high time it is for the King to flye; and so He did whether He could for shelter; For He saw too feelingly, that they cared not what became of the Head, so the Members might be safe.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>How could these projects yet command what mony they pleased? and without it, and good store of it too, the plot whatever it be must fall.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Very true, and therefore our New <hi>States-men,</hi> first de<g ref="char:EOLhyphen"/>sire to borrow Monie and Plate upon the <hi>Publique Faith,</hi> which is soon as Creditlesse, as a <hi>Poles-Chremer,</hi> or a <hi>Scots-Merchant;</hi> These <hi>Hocas-pocas</hi> tricks, get them huge Masses of monie, but not enough; therefore from desires they fall to Commands. One Ordinance is published, whereby power is given to <hi>two, three,</hi> or <hi>foure</hi> men of every Ward in <hi>London,</hi> and of every Parish within their Lines of Communication, to affesse every man in what Summes they thought fit for the 20th part of their Estates, with a superadded power to take it for<g ref="char:EOLhyphen"/>cibly, if not paid freely. By this Legislative device, they get a
+<pb n="27" facs="tcp:113226:13"/>second Magazine of mony; but this too is quickly spent, or ra<g ref="char:EOLhyphen"/>ther mispent.</p>
+               <p>Therefore a second Ordinance is published, for taking a<g ref="char:EOLhyphen"/>way the other ninteen parts, from all those, whom they falsly called, or foolishly supposed to be Malignants, with so much pretended mercy in promise, that if the wife of the made Ma<g ref="char:EOLhyphen"/>lignant would Petition for a fifth part, she should have it to maintaine hit selfe, and Children, which for the most part was but pretended, being very seldome performed.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>This is very strange, that the Citizens should not see into so grosse a cheat, and forbeare to lend more fewell to this Fire: But how could such vast summes as these devises could not but bring in, be expended.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Very strange indeed, but very true too: and that I shall shew you in the expending of these vast summes, as you right<g ref="char:EOLhyphen"/>ly call them: known be it to you therefore, that the Rebells Army was raised, <hi>July</hi> 30. 1643. which consisted of 19. Regi<g ref="char:EOLhyphen"/>ments of Foot, each Regiment of 800. men; Sixteen of these Nineteen had for their Colonells, Members of that which you call the House of Lords &amp; Commons; The major of those 16, had allowance to each of them for a Troop of Horse; the Horse allowance was 349 l and above <hi>per mensem.</hi> The Foot pay for Souldiers and Officers, was 47527 l <hi>per mensem</hi> or thereabouts; each Colonell receiving 1288 l and upwards the Moneth, which from the Date of their Commission to <hi>October</hi> 23. 1642. the day of Battell at <hi>Edge-hill</hi> with their Advance mony amounted to above 147537 l.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Admit this to be true: this came not to the Tythe of the Receipts.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>True, and therefore the greater the Cheate; for the pay is continued from <hi>Octob.</hi> 23. 1642. untill <hi>Iune</hi> 6. 1643. and each Colonell still receives his pay for 800 men in his Regi<g ref="char:EOLhyphen"/>ment, who when they came to be mustered, three Regiments could not make up 800 men: so that they pursed to themselves above 140000 l.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>These are but words; <hi>Quomodo constat?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Desire Auditor <hi>Broad, Collins</hi> his man, to shew you
+<pb n="28" facs="tcp:113226:14"/>the Close Committee Book, and Establishment of the Army; and if you find not a <hi>Broad</hi> and plaine <hi>constat</hi> there, blame mee. There you shall finde the greatest part of this mony issued by their own Orders to their owne Creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Enough Sir, no more.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Sir I pray a little more; M<seg rend="sup">r</seg>
+                  <hi>Pym</hi> from <hi>Iuly</hi> 30. 1642. to <hi>July</hi> 30. 1643. receives no lesse then 4191 l — 12 s for his sonne <hi>Alexanders</hi> Troope: his sonne in Law M<seg rend="sup">r</seg>
+                  <hi>Symonds</hi> is made Treasure for the Associated Counties, and <hi>Charles Pym</hi> his sonne, a Captain of Dragoons for that Association: you may assure your selfe, there was brotherly payment, Ca me, and I will Ca thee.</p>
+               <p>His Cousen <hi>Nicolls</hi> is made Paymaster of the Messengers of Intelligence, under the notion of Posts: what he got by this of<g ref="char:EOLhyphen"/>fice, guesse your selfe, for he quickly paid his Fathers Debts, which were not small, and coached himselfe with the Gal<g ref="char:EOLhyphen"/>lants of the Round Table, which could hardly be maintained by 140 l <hi>per annum,</hi> the utmost of his own Revenues. Vpon this his suddain Rise, it is openly reported, that <hi>Pym</hi> brought in his Cousen <hi>Nicolls</hi> on purpose to couzen the Kingdome and enrich themselves: Hereupon <hi>Nicolls</hi> gives up, and the Of<g ref="char:EOLhyphen"/>fice is by the craft of <hi>Pym,</hi> cast upon M<seg rend="sup">r</seg>
+                  <hi>Parker</hi> the Secretary to the Close Committee, with promise to reimburse him such monies, as he should expend in that service; He in short time disburses 300 l or thereabouts; He desires performance of pro<g ref="char:EOLhyphen"/>mise; the Close Committee issues a warrant to the Treasurer to repay him; This warrant is privately countermanded; would you know why? on purpose to weary <hi>Parker</hi> out of his em<g ref="char:EOLhyphen"/>ployment, which accordingly falls out, and so is <hi>Nicolls</hi> by the subtle eloquence of his Cousen <hi>Pym in statu quo; viz.</hi> one of the grand cheators of the City, and then lines of Communica<g ref="char:EOLhyphen"/>tion.</p>
+               <p>I could tell you of a Lord, who after the Receipt of many 1000 l for his Regiment of Horse by warrant from the Close Committee, to be imprest upon account; and being called to account (which was more then ever other Member was) and his disbursements not ballancing his charge; the businesse is
+<pb n="29" facs="tcp:113226:14"/>stiffed, and his Secretary, by a warrant of that Committee, whereof himselfe was one, is cast into the Fleet; as if poor fel<g ref="char:EOLhyphen"/>low; he had been the cheate; but to make him amends, after 22. Weekes imprisonment, he is offered his liberty, upon paying his Fees.</p>
+               <p>I could likewise tell you of a Committee of Dispatches, whose office was to Survey all warrants issued by the Close Committee for the payment of Monies, who indeed proved a Committee of Dispatches to their fellow Members, but a Committee of Protraction to all other Commanders and Souldiers.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Mee thinkes by this means they should loose their Souldiers.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>No, for by the two former Ordinances, with the help of the <hi>Militia,</hi> they have as well awed, as robbed the unarmed Subject: And lastly, by a third Ordinance they break the Act of Pacification betwixt the two Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> thereby inviting them to a second Invasion, so loth they were to be Rebels by themselves; and to so much misery are we brought, if an Ordinance passe for Law.</p>
+               <p>By this that hath been said, you see how and where this Rebellion was Conceived, Borne, and Nursed; Conceived in <hi>England,</hi> Borne in <hi>Scotland,</hi> sent back to Nurse in <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I confesse, I see how that which you call Rebellion, was Conceived, Borne, and Nursed, But for my part I cannot yet conceive or believe it to be a Rebellion, since it hath had so many blessings from God in the Prosecution, and God sel<g ref="char:EOLhyphen"/>dome or never blesses Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>True, God never blesses Rebellion; but he does some<g ref="char:EOLhyphen"/>times permit successes to Rebellion; and those successes which you imagine to be Blessings, are but Curses in the Issue: I might instance in almost all Rebellions: I will instance but in one for all; That successe which <hi>Jeroboam</hi> had in his Rebellion what was it but a Curse in the end? For it made but way for their slavery &amp; Captivity; and those successes which this Rebellion hath had; what have they done, but <gap reason="illegible: faint" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>cated the Eves, obdu<g ref="char:EOLhyphen"/>rated the Hearts, and obstructed the Eares of the Rebels; to all
+<pb n="30" facs="tcp:113226:15"/>Honourable overtures and offers of Peace? And what will the Issue be, but their utter overthrow, or perpetuall exile? so all good men, and most wise men judge, and hope, and pray; But leaving that for a while; Name the successes you have had; I will name the successes the King hath had; we will then put them into the Scales; and judge your selfe which outweighs.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Content; I will first name our Successes, and to avoyd prolixity, I will name only our Eminent ones, and I begin with that at <hi>Edgehill,</hi> where it is certaine we killed five for one, <hi>Octob.</hi> 23. 1642.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>True, five indeed were killed for one; but on whose side? Certainly, where the King lost one, the Rebels lost five; else it is very unlikely, that the very next day, the King should take from you, three peeces of Ordinance, then march to <hi>Ban<g ref="char:EOLhyphen"/>bury,</hi> and take it, from thence to <hi>Brainceford,</hi> and there, being in a manner betrayed under pretence of a Treaty, should kill Ten for one, take three Barges laden with Powder, Bullet, and Match, with thirteen peece of Ordnance, and after all this, returne safely, honourably, and Victoriously to <hi>Oxford,</hi> the Rebels never daring to peep after him.</p>
+               <p>
+                  <hi>But Sir.</hi> I must carry you back, and tell you of one more eminent Victory, even to a full moneth before that of <hi>Edge<g ref="char:EOLhyphen"/>hill,</hi> when the flower of the Cavalrie thought the King so weake, that they made no question of taking Him at <hi>Worcester;</hi> whence Prince <hi>Rupert,</hi> with eleven Troops onely of Horse, met them, Routed them, took foure Coronets, slew two, with Major <hi>Douglasse,</hi> and divers other Captaines and Offi<g ref="char:EOLhyphen"/>cers, with their Commander in chiefe, <hi>that Colonell Sands,</hi> who a little before had used this Imprecation upon himselfe, That <hi>He might rot alive, if ever he lift up his Hand, or drew his Sword against the King:</hi> Now, whether God heard him, or not, read the Storie of his Death, and guesse your selfe.</p>
+               <p>I cannot blame you for declining all Fights and Losses; for you know very well, That from the beginning, you have taken nothing from the King, but what He had first taken from you by strength; you againe from Him by Treacherie: And indeed setting aside those three Battells, one in <hi>Lincolnshire,</hi> at <hi>Horn-Castle,</hi>
+                  <pb n="31" facs="tcp:113226:15"/>in <hi>Octob.</hi> 1643. one in <hi>Yorkeshire,</hi> at <hi>Marstone-moore,</hi> in <hi>July,</hi> 1644. and one at <hi>Nasbye,</hi> in <hi>June,</hi> 1645. where can you name one Battell more, wherein you have not been, in all Foyled, in many Conquered, in every one Beaten?</p>
+               <p>I have disproved your first supposed Victory, and named three for none. I have confessed three wherein you have gai<g ref="char:EOLhyphen"/>ned, and you cannot, I am sure you cannot name one more; For each of which the King hath gained in tenne: And all by mi<g ref="char:EOLhyphen"/>racle too: for you had all humane advantages imaginable; Ar<g ref="char:EOLhyphen"/>mies, Canons, Guns, Weapons, Mony; the King none of all these, but only a few Loyall Subjects, who by Gods blessing, first fought with you for Weapons, and then beat you with your Weapons: It is so plaine that all the Votes in <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> could never yet gainsay it: But if you will goe on, doe, I am ready still to answer you, and give you satisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Truly, I am so farre satisfied by this preoccupation of yours, that I have no more to say that way, but another way I have; The pursuance of our two Covenants, to which we are bound by Solemne engagements, and to which if we joyntly stand, I cannot yet see but we must have the better.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You might have said three, but that the third hath shewn a way to break the other two: The first Covenant was to live and dye with the Earle of <hi>Essex;</hi> But they that made that Covenant have broken it, and Cashiered that Earle; The other two, are so farre from binding you to goe on in this Re<g ref="char:EOLhyphen"/>bellion, that because the one and the other are Covenants for Rebellion, you are bound, first to repent for taking them, and then to returne to your first obedience, unlesse you will still maintain the first comparison of <hi>Sampsons</hi> Foxes betwixt your selves and <hi>Papists.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Why, how doe these Covenants confirme that compa<g ref="char:EOLhyphen"/>rison, and make us Papisticall?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>How? why herein you joyne with them in the Dispen<g ref="char:EOLhyphen"/>sation of Oathes; a Doctrine never so much as dreamt of before the dayes of <hi>Gregory</hi> 7. He absolved <hi>Rodulphus Duke of Sue<g ref="char:EOLhyphen"/>via,</hi> from his Oath of Allegiance to <hi>Henr.</hi> 4. <hi>Emp.</hi> that he might take up Armes against him; Nay, herein you exceed the
+<pb n="32" facs="tcp:113226:16"/>Papist; For they first absolve from the old Oath, before they impose or take a new; But you impose and take a new Oath, without Absolution from the former, and so make your selves tenne times more the Children of Hell: But all such Doctrines and Practises will have, I make no doubt, such ends as that Duke had.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Pray what was that?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Why in that very hand, which he lift up against his Lord and Maister, and with which he had formerly sworn to doe him service, he received his mortall wound, which brought him to a remembrance of his sinne; I wish I could say, and to Repentance, I am loath to say, to Despaire.</p>
+               <p>I could instance the like in some of your worthies; That Co<g ref="char:EOLhyphen"/>lonell <hi>Sands</hi> whom I named before, while he remained in danger, detested his present practice, promised amendment, and oft called to mind his Oath of Allegiance; but having some small hopes of Cure and Recovery, he returned to his vomit; and had at once, a Reeidivation to his sinne and Danger; and so without Symptome of Repentance died: This is upon Record.</p>
+               <p>And upon credible report I have received, that M. <hi>Hamb<g ref="char:EOLhyphen"/>den</hi> himselfe, after his deadly wound received in <hi>Chalgrove</hi> field, was advised yet to returne to his obedience to the King, and so upon Repentance, he might find favour, both with God and the King; to which he replyed, <hi>Alas, I am in too farre,</hi> and so he died.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Say you so? I must confesse I am almost perswaded to turne <hi>Protestant;</hi> but there are some Rubbes yet to be remo<g ref="char:EOLhyphen"/>ved: I have discoursed with some of our best Divines, and they have assured me, that this Action of the Parliaments, is so farre from being Rebellion, that what they have undertaken, they have been directed thereunto by the Motion of the holy spirit: what thinke you of it? Resolve me otherwise, if you can.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I will, and will deale with you herein by the word of God, which is the best tryall, what proceeds from the Spirit of God: and the Word of God saies thus concerning that par<g ref="char:EOLhyphen"/>ticular; <hi>Believe not every spirit, but try the spirits, whether they be of God or no:</hi> 1. <hi>Joh.</hi> 4.1. Now doe you take this Text in
+<pb n="33" facs="tcp:113226:16"/>hand, and Try whether that be the Spirit of God or no, which</p>
+               <p n="1">1. Seeketh by unworthy and sinister waies to accomplish their Designes, as 1. By bringing in the Scots. 2. By robbing the Kingdome of their pay. 3. By not relieving the distresses of <hi>Ireland.</hi>
+               </p>
+               <p n="2">2. By bitter Scandalls and Lying Reports, seek to abate the Loyalty of the People from their Soveraigne, as by accusing His Majesty; 1. To have a hand in the Rebellion of <hi>Ireland,</hi> and to favour their proceedings. 2. To seek the destruction of the Parliament, &amp; bring up an Army against them. 3. With an intention, 1. To bring in Popery. 2. To bring in a For<g ref="char:EOLhyphen"/>raigne Army. 3. To rule in an Arbitrary way.</p>
+               <p n="3">3. Seeketh to uphold their designes by lies, as appeareth by 1. Pamphlets. 2. Votes. 3. Letters. 4. Speeches.</p>
+               <p n="4">4. Expresseth an inveterate hatred, and rancorous malice to the Grave and Reverend Clergy of our Kingdome, by, 1. Countenancing all Accusations against them, how unjust and Scandalous soever. 2. Vpholding all those who are <hi>Ex Dia<g ref="char:EOLhyphen"/>metro</hi> against them, and enemies to the Established govern<g ref="char:EOLhyphen"/>ment of the Church. 3. Not punishing the Riotous assaults made upon the Persons of the Bishops. 4. Accusing after a ma<g ref="char:EOLhyphen"/>litious, but Ridiculous way the Bishops of High Treason, and then committing them to the Tower. 5. Putting them from their Votes in the House, which hath been one grand cause of all these Miseries and Distractions in the State, and likely had been prevented by them if they had had Votes.</p>
+               <p n="5">5. Vpon false surmises and suggestions, Vote things to be Law, contrary to the Fundamentall Lawes, as 1. That the King is bound by Oath, to settle the <hi>Militia</hi> as they would have it. 2. That the King hath no Right in His Castles, Forts, &amp;c. but only in Trust, which is forfeitable. 3. That they may by the Fundamentall Lawes, dispose of this Trust, which im<g ref="char:EOLhyphen"/>plyes a forfeiture in the King. 4. That all Government by Corporations by the Kings Grants are void. 5. That the Hou<g ref="char:EOLhyphen"/>ses may make new Lawes and Ordinances, without the con<g ref="char:EOLhyphen"/>sent of the King. 6. That the King cannot execute the Com<g ref="char:EOLhyphen"/>mission of <hi>Array,</hi> without the Houses consent.</p>
+               <p n="6">
+                  <pb n="34" facs="tcp:113226:17"/> 6. Maintaineth Sedition, by 1. Sermons which incite the People against their Soveraigne and the Church. 2. Appella<g ref="char:EOLhyphen"/>tions of uncharitablenesse, as 1. Malignant. 2. Ill affected. 3. Popishly minded. Whereby the Nobility, Gentry, Cler<g ref="char:EOLhyphen"/>gy, and other Religious men are abused. 3. Libells and Pam<g ref="char:EOLhyphen"/>phlets against Soveraignty. 4. Speeches which tend to the great Derogation of His Majesty.</p>
+               <p n="7">7. Dispenseth with Oathes of 1. Allegiance. 2. Suprema<g ref="char:EOLhyphen"/>cy. 3. Offices. 4. Protestations. 5. Duties of Loyalty; and punisheth them that make Conscience of them.</p>
+               <p n="8">8. Maintaineth Treasonable and desperate Designes, in <hi>Ho<g ref="char:EOLhyphen"/>tham, Warwick, Essex, Fairfax, &amp;c.</hi> 1. Killing the Kings Sub<g ref="char:EOLhyphen"/>jects. 2. Drowning the Country. 3. Taking Armes against the King. 4. Taking Passengers Prisoners. 5. Surprizing the Kings Provision, and opening His Letters.</p>
+               <p n="9">9. Against common sense pretend, 1. His Majesties safety, and yet declare all that offer Loyalty to be the Kings enemies. 2. His Honour, and yet seeke to make Him in famous to all A<g ref="char:EOLhyphen"/>ges and Nations. 3. His Wealth, and yet take away His and His Childrens Bread. 4. The safety of the Common-weale, and yet embrue it in a desperate and Civill Warre. 5. The Li<g ref="char:EOLhyphen"/>berty of the Subject, and yet 1. Imprison them for discharging their Conscience. 2. Deny them the Liberty of Petitioning. 3. Scorne and vilify the Gentry. 6. The Priviledge of Parlia<g ref="char:EOLhyphen"/>ment, and yet 1. Root out all that use freedom of Speech a<g ref="char:EOLhyphen"/>gainst their Votes. 2. Take away Bishops and Temporall Lords. 3. Scandalize the Nobility which adhere to the King.</p>
+               <p n="10">10. Will admit of no Peace, unlesse the King yeeld to an Alteration of Government in Church and State.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I confesse you have staggerd me more and more; and yet you have furnished me with new matters of objection; for I am inform'd, notwithstanding all that you have said, That the King endeavours to bring in Popery; That the least he in<g ref="char:EOLhyphen"/>tends, is to set up and reestablish the Common-Prayer-Booke, which is compiled of nothing but the Roman <hi>Missall,</hi> or the Popish <hi>Masse-book:</hi> And I am in part induced to believe this, by that which is called the <hi>Kings Cabinet,</hi> or his Letters taken at <hi>Nasby;</hi> satisfy me in these particulars, and I shall tell you more of my mind.</p>
+            </sp>
+            <sp>
+               <pb n="35" facs="tcp:113226:17"/>
+               <speaker>Pr.</speaker>
+               <p>I shall doe my endeavour: And 1. That the King en<g ref="char:EOLhyphen"/>deavours to bring in Popery; It is a supposition of so much un<g ref="char:EOLhyphen"/>likelyhood, that to me it is altogether a <hi>non supponendum;</hi> and a meere absurdity to imagine it: whosoever informed you this might as well have informed you, that He hath an Army of <hi>Fayries,</hi> and intends to make all your Children <hi>Changlings;</hi> on<g ref="char:EOLhyphen"/>ly that it is to be feared, a <hi>Rebels</hi> posterity can hardly be an <hi>In<g ref="char:EOLhyphen"/>nocent:</hi> Had he such intentions, why hath he bin so hardly won to a promise of disburthening the Romane Catholiques of the Penall Lawes, either in <hi>England</hi> or <hi>Ireland,</hi> or both? And to that promise upon condition too, hard enough on their sides? <hi>viz.</hi> That by their meanes he shall be enabled to suppresse the <hi>Rebellion:</hi> It never came to the promise of a Tolleration, much lesse to set up, or bring in Popery; The result is: My house is on Fire; I promise my Servants to ease them of their drudgery, if by them my house be preserved from Ruine; yet they shall be my Servants still; They shall not share with my Children, not be indulged with any of their Priviledges: Make more of it, he that can.</p>
+               <p>Had the King promised a Tolleration, what Popish King in the world would not have come in to quell the <hi>Rebels</hi> of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> who for these 4 or 5 yeares past have bin of no Reli<g ref="char:EOLhyphen"/>gion? Adde to this His often Protestations against Popery; which if I did not beleive, my conscience would condemne me of Treason, if not of Infidelity; His Religious Practice, and observation of the Protestant worship of God, which to ima<g ref="char:EOLhyphen"/>gine Feigned, is a sinne of a very deep Dye, and would bring me within the compasse of that Menace, <hi>with what measure yee meat, it shall be measured to you againe,</hi> at least of — <hi>Pro<g ref="char:EOLhyphen"/>priu<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> est stultitiae aliorum vitia cernere, oblivisci fuorum.</hi> But these two Brands, Folly and Hypocrisie, I resign to their ow<g ref="char:EOLhyphen"/>ners, <hi>Robels,</hi> who never thought themselves safe, unlesse they were <hi>Bigami,</hi> more Knaves then Fooles, but enough of both.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, That the least he intends is to reestablish the Common-Prayer-Book, which is compiled of nothing but the Romane Missall, or the Popish Masse-Book; I answer, Nothing truer, nothing falser; That he intends to reestablish the Com<g ref="char:EOLhyphen"/>mon
+<pb n="36" facs="tcp:113226:18"/>Prayer-Book; Nothing in the world truer: And if he did not intend this, you might doubt whether he intended the o<g ref="char:EOLhyphen"/>ther; <hi>To bring in Popery:</hi> you have left off to be men by these <hi>Asustata;</hi> For to intend to bring in Popery, and to intend to reestablish the Common-Prayer-Book, are things so incompa<g ref="char:EOLhyphen"/>tible, and impossible to stand together, as to say, The Dominee<g ref="char:EOLhyphen"/>ring Faction at <hi>Westminster</hi> intend to Reforme the Protestant Religion, but are resolved to admit of all Religions; They in<g ref="char:EOLhyphen"/>tend to secure the Subjects Liberty, but they are resolved to keep them in perpetuall Prison; They have Voted for the Subjects Property, but it is formerly resolved upon the Questi<g ref="char:EOLhyphen"/>on, that they will Plunder them of all they are worth; In a word, They are His Majesties most humble and loyall Sub<g ref="char:EOLhyphen"/>jects; but they are arrant <hi>Rebels:</hi> Iust such contraries and con<g ref="char:EOLhyphen"/>tradictons are the Common-Prayer-Book of the Church of <hi>England,</hi> and the Masse-Book of <hi>Rome:</hi> For take the Masse-Book strictly and essentially, for that which we call the Com<g ref="char:EOLhyphen"/>munion; The Missall saies, That the Body and Bloud of Iesus Christ is really offered up by the Priest to God the Father, a Propitiatory Sacrifice for the Quick and the Dead; Our Com<g ref="char:EOLhyphen"/>mon-Prayer-Book saies the clean contrary; It is a perpetuall memory of Christ His pretious Death: or take it largely and accidentally; The Missall offers prayers to Saints; Our Com<g ref="char:EOLhyphen"/>mon-Prayer-Book to God only; The Missall ascribes much to mans merits; Our Common-Prayer-Book ascribes all to Gods Grace; In the Missall many things repugnant to the word of God; In the Common-Prayer-Book nothing but what is col<g ref="char:EOLhyphen"/>lected from the Book of God; At least not repugnant to it, saies your owne beloved <hi>Bucer;</hi> And it was M. <hi>Iohn Calvins</hi> ad<g ref="char:EOLhyphen"/>vise and censure, that the Schismatiques (your elder Bre<g ref="char:EOLhyphen"/>thren) would return, and not be stiffe. If ever you will be true<g ref="char:EOLhyphen"/>ly <hi>Calvinists,</hi> now or never take his Counsell, and returne to that which the Common-Prayer-Book teaches you, <hi>To ac<g ref="char:EOLhyphen"/>knowledge the King's Power to be from God, and therefore you faithfully to serve, honour, and humbly obey Him.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Lastly, concerning the King's Cabinet; I have perused it, <hi>(the sawcier knave I)</hi> and protest upon that hope I have of my
+<pb n="37" facs="tcp:113226:18"/>Soules well-fare; That I find nothing therein, which may not justly render the King a wise Man, a constant Protestant, and a loving Husband.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Oh Sir, doth not the King solicite the Queene to hasten the Transportation of the Duke of <hi>Lorraines</hi> Army? and can you think they will fight in maintenance of the Protestant Re<g ref="char:EOLhyphen"/>ligion, and not rather to bring in Popery?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Mistake me not, I verily beleeve, That Duke would fight to bring in Popery, if he were invited to it; but doe not you think, he will first fight against them that fight against Mo<g ref="char:EOLhyphen"/>narchie, against the very Essence and being of Kings? Doe not you think he will rather fight for Protestants who seek to up<g ref="char:EOLhyphen"/>hold Monarchy, then for Papists, if they seek to destroy Mo<g ref="char:EOLhyphen"/>narchie? Certainly, the Duke of <hi>Lorraines</hi> Sword hath more love to the Protestant Religion, then Sir <hi>Thomas Fairfaxes,</hi> and a Loyall <hi>Papists,</hi> then a <hi>Rebels,</hi> whether <hi>Anabaptists, In<g ref="char:EOLhyphen"/>dependants, Antinomians, Iacobins, Smectimnyans,</hi> or any other sort of <hi>Puritan,</hi> of which Locusts your Armies are full, or <hi>Turkes,</hi> or <hi>Iewes,</hi> of which <hi>Dragons</hi> your Armies are not emp<g ref="char:EOLhyphen"/>ty: And if your Children and Servants, whom you are bound by the Law of nature to love and favour, and bring up in the feare of God by the Law of grace, shall come to that height of Impudence, both unnaturall and gracelesse, as to Rob you, to undoe you, to dostroy you, I pray what jealousie of declining the Bonds of Nature, or the feare of God can you incurre from men, that are not Plundered of their Sence, if you employ your Wife to hasten your Neighbour to your assistance, that hath the bonds of nature, though not the feare of God.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>But Sir, have you read the Annotations of M. <hi>Lisle,</hi> M. <hi>Tate,</hi> and M. <hi>Browne</hi> upon that Cabinet? I assure you they re<g ref="char:EOLhyphen"/>ceived mighty applause.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes, I have read them too; and find them so full of Non<g ref="char:EOLhyphen"/>sense, Malice and Detraction, that I verily beleive, had they bin sent to any other City in the world, they would have been return'd with that scorne, which those three Ambassadors were sent home with, There is neither Head, Heart, nor Foot in it; M. <hi>Lisle</hi> hath a <hi>Vertigo,</hi> M. <hi>Tate</hi> a <hi>Tremor,</hi> M. <hi>Browne</hi> a <hi>Po<g ref="char:EOLhyphen"/>dagra;</hi>
+                  <pb n="38" facs="tcp:113226:19"/>The one wants <hi>Braines;</hi> the second <hi>Ʋtterance,</hi> the third wants <hi>Strength;</hi> No woonder if the Auditors wanted Eares: and the best I can say of them is, Here they came in, and here they went out again; Yet I cannot but say, that one of them well deserves to be the Parliament Oratour, so M. <hi>Lisle</hi> be<g ref="char:EOLhyphen"/>gins, <hi>My Lord Major, and you worthy Gentlemen of the famous City of London: I am commanded, &amp;c.</hi> They commanded him to flatter them; and he does it to the purpose; For <hi>famous</hi> they are, and will be to many Generations in that acception, <hi>Fama est malum:</hi> Rebellion is an evill thing: Another of them will deserve to be the City Remembrancer, and M. <hi>Tate</hi> challeng<g ref="char:EOLhyphen"/>es it at his very entrance; but I must remember him, <hi>Menda<g ref="char:EOLhyphen"/>cem memorem esse oportet;</hi> But poore man, he will forget both, to lye, or to remember to lye, when the end of his speech hath taken effect; <hi>The Popish Party will kill you all:</hi> The third will deserve to be the City Iudge; For in his beginning he arraignes the King and Queene, both with joy and sorrow, only he for<g ref="char:EOLhyphen"/>beares to give sentence, for his last words are, <hi>I need not re<g ref="char:EOLhyphen"/>peat the words:</hi> Not shall I need to satisfie you in these Letters: Doe but read that excellently worked Instrument, called, <hi>A Key to the King's Cabinet,</hi> and that other, <hi>A Letter upon the Annotations</hi> &amp;c. And if you have not the Head of M. <hi>Lisle,</hi> the Heart of M. <hi>Tate,</hi> or the Feet of M. <hi>Browne,</hi> I dare say, you will no longer be either <hi>Rebel,</hi> or <hi>Puritan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sir, I pray use not those words any more to me: I con<g ref="char:EOLhyphen"/>fesse I am silenced for any more Replyes against you, or for Defence of this <hi>Rebellion;</hi> For lesse I perceive it is not, and I would to God it were a lesse <hi>Rebellion</hi> then I perceive it is; That I Perish not in it, Here, and now before God and the World I protest my unfaigned sorrow, that ever I had a hand in this Accursed <hi>Rebellion,</hi> or ever contributed Monye, or de<g ref="char:EOLhyphen"/>sire towards it, and beseech God and the King to pardon Me, and you and all good Men to pray for me, and wish with all my Soule, that those Fatall dayes to King CHARLES, <hi>October</hi> 1643. at <hi>Horne-Castle</hi> in <hi>Lincolneshire, Iuly,</hi> 1644. at <hi>Mar<g ref="char:EOLhyphen"/>stone-moore</hi> in <hi>Yorkeshire,</hi> and <hi>Iune</hi> 27. 1645. at <hi>Nasby,</hi> may never come into any Kalendar or Almanack of Remembrance, least it prove an Encouragement to another Rebellion.</p>
+            </sp>
+            <sp>
+               <pb n="39" facs="tcp:113226:19"/>
+               <speaker>Pr.</speaker>
+               <p>Enough Sir, I thank God for his Grace in you, I thank you for testifying so much to the World, but let those Dayes be remem<g ref="char:EOLhyphen"/>bred in the mourning Letters of Griefe and Sorrow, because our sinnes were so great, as to provoke God to permit such Clouds to frowne so much upon his Annointed: And let these Fatall Dayes to the Rebels, be registred in the Dominicall letters of Ioy and Glad<g ref="char:EOLhyphen"/>nesse, in this or the like manner.</p>
+               <p>
+                  <hi>We doe and will give thankes to thee, O Lord, with our whole hearts,</hi>
+                  <note place="margin">Ps. 111.1.</note>
+                  <hi>secretly among the Faithfull, and publickly in the Congregation, because thou hast done such a marvellous worke,</hi>
+                  <note place="margin">v. 4. v. 6. v. 9.</note>
+                  <hi>as to shew thy People the power of thy workes, and given us a hope of Redemption by a glorious Victo<g ref="char:EOLhyphen"/>ry over the Rebels at</hi> Wickfield, Sept. 23. 1642.</p>
+               <p>
+                  <hi>We doe give thanks to thee, O Lord,</hi>
+                  <note place="margin">Ps. 118.1.</note>
+                  <hi>and confesse that thou art grati<g ref="char:EOLhyphen"/>ous, because thou hast taken part with thine Annointed, and them that help Him, against the desire of his Enemies at</hi> Edgehill, Octo. 23. 1642.</p>
+               <p>
+                  <hi>We give thanks to thee the God of all Gods,</hi>
+                  <note place="margin">Ps. 136.1.</note>
+                  <hi>we give thanks to thee the Lord of all Lords, because thou hast continued thy mercy to thine Annointed, and by a mighty Hand, and a stretched out Arme,</hi>
+                  <note place="margin">v. 2. v. 12. v. 15.</note>
+                  <hi>hast overthrowne Pharaoh and his Host in the</hi> Thames, <hi>neare</hi> Brainceford, Novemb. 12, &amp; 13. 1642.</p>
+               <p>
+                  <hi>Blessed be thou, O Lord, our Soveraignes strength, and our owne,</hi>
+                  <note place="margin">Ps. 144.1.</note>
+                  <hi>who hast taught our Hands to Warre, and our Fingers to Fight; our Hope, our Castle, and Deliverer, our Defender in whom we trust, which hast subdued the People under him, and given Him a glorious Victory over his Rebellious Subjects at</hi> Cyrencester, Febr. 2. 1642.</p>
+               <p>
+                  <hi>We magnifie thee, O God our King,</hi>
+                  <note place="margin">Ps. 145.1. v. 2. v. 6.</note>
+                  <hi>and will praise thy Name for ever and ever: Every day will we give thankes to thee, and praise thy Name for ever and ever: We will speake of the might of thy marvellous acts, and tell of thy greatnesse;</hi>
+                  <note place="margin">v. 7. v. 8.</note>
+                  <hi>We will remember thine abundant kind<g ref="char:EOLhyphen"/>nesse, and sing of thy righteousnesse, because thou hast been gracious and mercifull, and of great goodnesse, in upholding our Soveraigne who was falling, and lifted up Him thy Servant who was downe,</hi>
+                  <note place="margin">v. 14.</note>
+                  <hi>by a glorious Victory at</hi> Stratton in Devonshire, May, 16. 1643.</p>
+               <p>
+                  <hi>Our Soule shall praise thee while we live, yea,</hi>
+                  <note place="margin">Ps. 146.1. v. 6.</note>
+                  <hi>as long as we have any being, we will sing praises unto thee, because thou hast helped him to right who suffered wrong, in Conquering him who was called the Conqueror, and given the King a glorious Victory over him at</hi> Round<g ref="char:EOLhyphen"/>way-downe, Iuly, 13: 1643.</p>
+               <pb n="40" facs="tcp:113226:20"/>
+               <p>
+                  <hi>None of these thy mercies, nor any other shall goe out of our remem<g ref="char:EOLhyphen"/>brance, we will never cease praising of thee for thy mercies past, nor praying unto thee for thy mercies future; which we beseech thee to multiply upon the Head of our King, and in the Heart of His King<g ref="char:EOLhyphen"/>domes, untill thou hast subdued all Rebels, and reduced all Cities and Citizens, all Townes and Subjects to the Duty of Loyalty, and the happinesse of Peace, through Jesus Christ.</hi> Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>I perceive you have done, and I confesse you have well done; for hereby you have cleared our Religion from any aspersion of this Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Not so, for before we part, It will appeare that you are more guilty in the <hi>Genus</hi> of Rebellion, then the <hi>Puritans,</hi> and as guilty in the <hi>Species</hi> of this Rebellion, as the <hi>Puritan;</hi> for you were the first Founders of this Doctrine, They but your Followers, and so made your sinne in Doctrine, their owne in Practice: They were the first Projectors and Actors in this Rebellion, and you their Follow<g ref="char:EOLhyphen"/>ers: &amp; so you have made their sin of Action your own by Imitation.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>You will hardly make this good.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Trye, and let the Issue prove it.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>First, then I say, That the first Rebellion you can charge upon us, the <hi>Papists,</hi> was that in 1605. which was but in Agitation neither, never in Execution; I meane the <hi>Powder plot;</hi> but we can charge many upon the <hi>Puritans,</hi> long before that time: Namely in <hi>Scotland,</hi> all the time of King <hi>James,</hi> and a great part of his Mothers Raigne, Q. <hi>Mary,</hi> and long before that in <hi>Germany.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Well, as high as you goe, you are still their Predecessors; For the greatest Antiquity of guilt in this kind, either for Doctrine or Practice, that you can charge upon the <hi>Puritans,</hi> is either in the time of M<seg rend="sup">r.</seg>
+                  <hi>Calvin,</hi> or a little before him, in the time of D<seg rend="sup">r</seg>
+                  <hi>Luther,</hi> who did what he could to quench that Fire: but long before both these, it was continued in point of Doctrine by the Clergie-Iesuits, and conceived into the point of practice by the Lay-Iesuits.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Never tell me of Iesuits, for I tell you once more, I am not Iesuited: so farre I beleeve King <hi>James,</hi> where he saies, That <hi>Je<g ref="char:EOLhyphen"/>suitae nihil aliud sunt quàm Puritano-Papistae,</hi> Iesuits are nothing but <hi>Puritan-Papists,</hi> I conceive I shall do no wrong to speake it in words at length, and not in Figures, The <hi>Brittaine-Puritans,</hi> are <hi>Roman-Jesuits,</hi> and the <hi>Roman-Jesuits,</hi> are <hi>Brittaine-Puritans:</hi> but we that are only <hi>Papists,</hi> have nothing to doe with either.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I would you had not: But you are called <hi>Papistae à Papa;</hi> Pa<g ref="char:EOLhyphen"/>pists
+<pb n="41" facs="tcp:113226:20"/>from the Pope; and the Popes Doctrines <hi>Ex Cathedrâ</hi> especi<g ref="char:EOLhyphen"/>ally you are bound to obey. And a Papall doctrine it is, That Subjects may be discharged and absolved from their Oaths of Alleagiance, in some cases, and being so absolved, may beare Armes against their Soveraigne.</p>
+               <p>If you will not believe these words, look upon that <hi>Impious Bull</hi> of that <hi>Pope Pius</hi> against <hi>Queen Elizabeth,</hi> and look a good deale higher, that you may not take me tripping; upon <hi>Greg.</hi> 7. whom I named before; And that you may be sure this Doctrine is not yet forgotten, or came under any <hi>Index Expurgatorius, Bellarmines</hi> own books were Licensed by your last Pope, and the best you had these Hundred years: I believe too there were other Papists then Jesuited in the <hi>Irish</hi> Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Alas, Alas Sir, you know the <hi>Irish</hi> lands were all sold, and themselves threatned to be all slaves or killed; And will not a Beare bite it any comes to take away his skinn before he be destroyed; you know the <hi>Irish</hi> had Agents waiting at <hi>Westminster,</hi> and in that King<g ref="char:EOLhyphen"/>domes name promising all due obedience to the Lawes of this King<g ref="char:EOLhyphen"/>dome, if they might enjoy those Fortunes which God and Nature had given them: you know that <hi>Scotland</hi> led them the way; and why should not they expect as good successe? and for ought I know, it cannot be tearmed a Rebellion against the King, but against Rebels in defending of themselves.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I know what you say, I know and wish that I could say with you For ought I know, it cannot be tearmed a Rebellion against the King: But I know it was: They might lawfully have defended themselves against Rebels, and been good Subjects; but when they came to offend the King, they made themselves Rebels: and which of the Rebels, the Papists there, or the Puritans here, have been most Barbarous, it will require an abler tongue then mine to deter<g ref="char:EOLhyphen"/>mine; But thus much I will say —</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Pray Sir, speak no more of it; I confesse it to the shame of the <hi>Roman Catholicks</hi> there, and here, and over all the World besides: But it comforts me to remember, how suddenly they have laid down their Armes; even as soon as ever the King eased them of some grievances; And to wipt away their own transgressions in <hi>Ireland,</hi> they have promised to assist the King with Meanes and Men, to quench this Rebellion in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="42" facs="tcp:113226:21"/>
+               <speaker>Pr.</speaker>
+               <p>Since you are so desirous to have it husht (though it be very soule, and will be hit in their Teeth hereafter) I will forbeare; only let me aske you one question; If the <hi>Irish</hi> Papists having once atchie<g ref="char:EOLhyphen"/>ved their own ends, shall neglect to performe all their Promises and Engagements hereafter, what will you then think of Poperie?</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Why doe you aske such an uncharitable question? It is far<g ref="char:EOLhyphen"/>ced with too much jealousie; can you think them men void of such common honesty, as after the receipt of so many unparallelld Acts of Grace, from such a mercifull and sweet natur'd King, who is as ready to give, as His Subjects can be to aske, and readier to forgive, then Rebels will be to repent, to be so gracelesse? If you acquit not your selfe fairely, I shall think the worse of you and your Religion so long as I live.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I Prophecy not; I pray God I be no Prophet in my conceipts; and I pray God they prove this last question of mine to proceed from a misgrounded Jealousie, and not a well grounded feare. For in truth I feare, yes, and believe it too, Papists are as well versed in <hi>Nulla fi<g ref="char:EOLhyphen"/>des cum Haereticis,</hi> as, <hi>In aliquibus casibus Reges licet dejicere;</hi> No promise to be kept with Hereticks, as, it is lawfull in some cases to resist Kings.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Why, is this a Popish tenent too.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>I shall not believe it if the <hi>Irish</hi> keep touch.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Whether they doe or no, a Popish tenent it is; and thus I prove it.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>You shall not need; but are you Hereticks?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>No, we are by our Proper name Christians, and by our Appellative, or Sir-name, Ca<g ref="char:EOLhyphen"/>tholicks: the Papists call us Hereticks: and if we were what they call us, yet, that Tenent never came from S<seg rend="sup">t</seg>
+                  <hi>Peter,</hi> nor is to be main<g ref="char:EOLhyphen"/>tained amongst Christians; The very <hi>Turks</hi> abhorre it; and therefore I ask you again, what you will think of Popery, if the <hi>Irish</hi> Rebels doe neglect the performance of their promises.</p>
+            </sp>
+            <sp>
+               <speaker>Pa.</speaker>
+               <p>Why then I will think as ill of Papists, as now I think of Pu<g ref="char:EOLhyphen"/>ritans; and promise you upon the credit of an Honest man, to turne Protestant. </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Thankes to Heaven; thankes to you; I thanke you heartily; and God send us all an union both in opinion and affe<g ref="char:EOLhyphen"/>ction.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>AMEN.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
